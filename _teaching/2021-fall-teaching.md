@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching
 venue: "Harvard University"
-date: 2020-09-01
+date: 2021-09-01
 location: "Cambridge, USA"
 ---
 
