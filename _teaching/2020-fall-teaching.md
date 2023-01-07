@@ -8,7 +8,7 @@ date: 2020-09-01
 location: "Cambridge, USA"
 ---
 
-Instructor: Brian Farrell
+Instructor: Prof. Brian Farrell
 
 Description: Physical concepts necessary to understand atmospheric structure and motion. Phenomena studied include the formation of clouds and precipitation, solar and terrestrial radiation, dynamical balance of the large-scale wind, and the origin of cyclones. Concepts developed for understanding today’s atmosphere are applied to understanding the record of past climate change and the prospects for climate change in the future.
 
