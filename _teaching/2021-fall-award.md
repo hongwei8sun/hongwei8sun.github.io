@@ -1,5 +1,5 @@
 ---
-title: "Certificate of distinction in teaching, awarded by Harvard University"
+title: "Certificate of distinction in teaching"
 collection: teaching
 type: "Award"
 permalink: /teaching/2021-fall-award
