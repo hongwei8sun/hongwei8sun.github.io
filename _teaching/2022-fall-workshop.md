@@ -1,5 +1,5 @@
 ---
-title: "Invited speaker: HARVARD FALL TEACHING CONFERENCE ROUNDTABLE - TEACHING AS AN INTERNATIONAL SCHOLAR"
+title: "Invited speaker: Harvard Fall Teaching Conference Roundtable - Teaching as an International Scholar"
 collection: teaching
 type: "Roundtable discussion"
 permalink: /teaching/2022-fall-workshop
