@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Hongwei Sun"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Hongwei Sun
+Contact
 ======
+12 Oxfrod Street
+Harvard University
+Cambridge, Massachusetts, 02138
+
 Emial: hongwei_sun@g.harvard.edu
 
 Education
