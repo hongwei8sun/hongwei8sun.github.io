@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Hongwei Sun"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,6 +12,7 @@ redirect_from:
 
 Contact
 ======
+Hongwei Sun  
 12 Oxfrod Street  
 Harvard University  
 Cambridge, Massachusetts, 02138  
