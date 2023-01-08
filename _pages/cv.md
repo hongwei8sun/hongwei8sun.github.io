@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-**Contact
-
+Contact
+======
   12 Oxfrod Street
   Harvard University
   Cambridge, Massachusetts, 02138
@@ -19,9 +19,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Atmospheric Science, Sun Yet-Sen University, 2015
-* M.S. in Atmospheric Science, Tsinghua University, 2018
 * PhD candidate in Environmental Science and Engineering, Harvard University, till now
+* M.S. in Atmospheric Science, Tsinghua University, 2018
+* B.S. in Atmospheric Science, Sun Yet-Sen University, 2015
 
 Publications
 ======
