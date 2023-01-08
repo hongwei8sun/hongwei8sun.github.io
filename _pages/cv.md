@@ -12,10 +12,10 @@ redirect_from:
 
 Contact
 ======
-  12 Oxfrod Street
-  Harvard University
-  Cambridge, Massachusetts, 02138
-  Emial: hongwei_sun@g.harvard.edu
+12 Oxfrod Street  
+Harvard University  
+Cambridge, Massachusetts, 02138  
+Emial: hongwei_sun@g.harvard.edu
 
 Education
 ======
