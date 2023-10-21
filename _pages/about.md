@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Contact"
+excerpt: "Contact"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,17 +19,7 @@ Emial: hongwei8@uw.edu
 
 Education
 ======
-* PhD candidate in Environmental Science and Engineering, Harvard University, till now
+* PhD candidate in Environmental Science and Engineering, Harvard University, 2023
 * M.S. in Atmospheric Science, Tsinghua University, 2018
 * B.S. in Atmospheric Science, Sun Yet-Sen University, 2015
 
-
----
-permalink: /
-title: "News"
-excerpt: "News"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
