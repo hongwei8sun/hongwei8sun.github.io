@@ -2,9 +2,9 @@
 title: "Certificate of distinction in teaching"
 collection: teaching
 type: "Award"
-permalink: /teaching/2022-fall-award
+permalink: /teaching/2021-fall-award
 venue: "Harvard University"
-date: 2022-12-01
+date: 2021-12-01
 location: "Cambridge, USA"
 ---
 
