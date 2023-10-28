@@ -14,7 +14,8 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://hongwei8sun.github.io/files/2023.10_CV_Hongwei%20Sun.pdf
+    
     
 #  - title: "Guide"
 #    url: /markdown/
