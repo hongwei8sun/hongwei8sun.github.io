@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Contact
-====== 
-Department of Atmospheric Sciences
+Department of Atmospheric Sciences  
+University of Washington, Seattle, WA 98105  
+Emial: hongwei8@uw.edu  
 
-University of Washington, Seattle, WA 98105
-
-Emial: hongwei8@uw.edu
-
+Research interests
+======
+* Aerosol-cloud interactions, marine cloud brightening
+* Multiscale plume-in-grid model development
+* Stratospheric dynamics and aerosol, stratospheric aerosol injection
+* Environment and renewable energies
 
 Education
 ======
