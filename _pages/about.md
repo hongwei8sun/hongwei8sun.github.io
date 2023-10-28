@@ -10,7 +10,7 @@ redirect_from:
 
 Department of Atmospheric Sciences  
 University of Washington, Seattle, WA 98105  
-Emial: hongwei8@uw.edu  
+Email: hongwei8@uw.edu  
 
 Research interests
 ======
@@ -21,7 +21,7 @@ Research interests
 
 Education
 ======
-* PhD candidate in Environmental Science and Engineering, Harvard University, 2023
+* PhD  in Environmental Science and Engineering, Harvard University, 2023
 * M.S. in Atmospheric Science, Tsinghua University, 2018
 * B.S. in Atmospheric Science, Sun Yet-Sen University, 2015
 
