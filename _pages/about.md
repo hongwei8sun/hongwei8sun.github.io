@@ -1,27 +1,18 @@
 ---
 permalink: /
-title: "Contact"
-excerpt: "Contact"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Department of Atmospheric Sciences  
-University of Washington, Seattle, WA 98105  
-Email: hongwei8@uw.edu  
+Welcome to my website! I am a postdoc at the Department of Atmospheric Sciences, UW. Before the postdoc, I got my PhD from Harvard University in 2023. My main research interests are using multiscale modeling methods to study climate science, including: (1) larger-scale stratospheric transport, dynamics, and aerosol processes, (2) small-scale aerosol-cloud interactions in the marine boundary layer, and (3) their applications in climate engineering (geoengineering).
 
-Research interests
+News
 ======
-* Aerosol-cloud interactions, marine cloud brightening
-* Multiscale plume-in-grid model development
-* Stratospheric dynamics and aerosol, stratospheric aerosol injection
-* Environment and renewable energies
 
-Education
-======
-* PhD  in Environmental Science and Engineering, Harvard University, 2023
-* M.S. in Atmospheric Science, Tsinghua University, 2018
-* B.S. in Atmospheric Science, Sun Yet-Sen University, 2015
-
+2024.05: 
+Check our new paper in npj climate and atmospheric science! (https://www.nature.com/articles/s41612-024-00664-8)
+Title: Stratospheric transport and tropospheric sink of solar geoengineering aerosol: a Lagrangian analysis
