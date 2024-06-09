@@ -13,6 +13,6 @@ Welcome to my website! I am a postdoc at the Department of Atmospheric Sciences,
 News
 ======
 
-2024.05: <br />
-Check our new paper in npj climate and atmospheric science! (https://www.nature.com/articles/s41612-024-00664-8) <br />
-Title: Stratospheric transport and tropospheric sink of solar geoengineering aerosol: a Lagrangian analysis. <br />
+**2024.05:** <br />
+  Check our new paper in npj climate and atmospheric science! (https://www.nature.com/articles/s41612-024-00664-8) <br />
+  Title: Stratospheric transport and tropospheric sink of solar geoengineering aerosol: a Lagrangian analysis. <br />
