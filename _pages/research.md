@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <br />
-**(1) Multiscale model application and development.** ([Sun et al., 2022])(https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816) <br />
+**(1) Multiscale model application and development.** ([Sun et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816)) <br />
 
 
 <img align="center" width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/8123c592-f33e-4915-b6f7-f43843e585c1"> <br />
