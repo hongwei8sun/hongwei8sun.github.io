@@ -37,9 +37,3 @@ author_profile: true
 
 <img align="center" width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/f5cf37f5-b875-4cd6-8cd8-627ec6ea75b7"> <br />
 
-
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
