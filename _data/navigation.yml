@@ -1,21 +1,20 @@
 # main links links
 main:
 
+  - title: "Presentations"
+    url: /Presentations/
+
   - title: "Research"
     url: /research/  
 
   - title: "Teaching"
     url: /teaching/    
     
-#  - title: "Presentations"
-#    url: /Presentations/
+  - title: "CV"
+    url: https://hongwei8sun.github.io/files/2023.10_CV_Hongwei%20Sun.pdf
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-  - title: "CV"
-    url: https://hongwei8sun.github.io/files/2023.10_CV_Hongwei%20Sun.pdf
-    
     
 #  - title: "Guide"
 #    url: /markdown/
