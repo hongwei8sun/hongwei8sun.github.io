@@ -26,7 +26,7 @@ Call for abstracts at the AGU2024 conference in Washington, D.C.! <br />
 <br />
 
 **06/03/2024:** <br />
-I will give a poster presentation at [CFMIP conference](https://sites.bc.edu/cfmip2024/conference-program/). <br />
+I will give a poster presentation at [CFMIP conference](https://sites.bc.edu/cfmip2024/conference-program/) in Boston. <br />
 Title: Response of Aerosol-Cloud Interactions to Global Warming in Large Eddy Simulations. <br />
 <br />
 
