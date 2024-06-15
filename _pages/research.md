@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am focusing on developing and applying different types of models to study multiscale processes in the atmosphere. My main research interests include: (1) large-scale stratospheric transport, dynamics, and aerosol processes, (2) smaller-scale aerosol-cloud interactions in marine boundary layer, and (3) their applications in climate intervention (geoengineering). <br />
+I am focusing on developing and applying different types of models to study multiscale processes in the atmosphere. My main research interests include: (1) large-scale stratospheric transport, dynamics, and aerosol processes, (2) smaller-scale aerosol-cloud interactions in the marine boundary layer, and (3) their applications in climate intervention (geoengineering). <br />
 
 1 Multiscale model development.
 ------
@@ -20,7 +20,8 @@ Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Euleria
 ## 2. Stratospheric transport, dynamics, and aerosol processes. ([Sun et al., 2024](https://www.nature.com/articles/s41612-024-00664-8))
 
 <img align="center" width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/cab7f734-2ca9-4022-a6bd-4fb179fca3b9"> <br />
-
+Figure 2. Particle number N (red values with the unit of particles), number flux F (blue values with a unit of particles
+per year), and lifetime L (purple values with a unit of years) in or between different stratospheric regions (black boxes) during the steady-state stage (2005.01–2010.01). <br />
 
 <br />
 
