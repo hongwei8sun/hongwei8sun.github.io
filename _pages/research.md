@@ -39,15 +39,17 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 
 ## 3. Aerosol-cloud interactions (ACI) in the marine boundary layer.
 
-<img align="center" width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/9e78ec97-fd5c-4517-a76d-9f04e261a0f3"> <br />
+<img align="center" width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/9e78ec97-fd5c-4517-a76d-9f04e261a0f3">
+</p>
 
 <br />
 
 ## 4. Climate engineering (geoengineering).
 
 <p align="center">
-<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/c3edf598-db13-4259-9845-254a35c7668e"> <br />
-
+<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/c3edf598-db13-4259-9845-254a35c7668e">
+</p>
+Figure 4. Mean stratospheric lifetime of particles injected at different injection altitudes for 4 different injection strategies.
 
 <br />
 
