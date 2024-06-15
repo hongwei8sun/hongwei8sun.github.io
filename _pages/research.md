@@ -7,7 +7,10 @@ author_profile: true
 
 I am focusing on developing and applying different types of models to study multiscale processes in the atmosphere. My main research interests include: (1) large-scale stratospheric transport, dynamics, and aerosol processes, (2) smaller-scale aerosol-cloud interactions in marine boundary layer, and (3) their applications in climate intervention (geoengineering). <br />
 
-## 1. Multiscale model application and development. ([Sun et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816))
+1 Multiscale model development.
+------
+
+I created a Lagrangian plume model and coupled the new Lagrangian plume model into a global model to build a multiscale plume-in-grid (PiG) model. This coupled PiG model is able to resolve subgrid plumes (e.g., aircraft plumes), which cannot be resolved by conventional global models ([Sun et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816)).  <br />
 
 <img align="center" width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/8123c592-f33e-4915-b6f7-f43843e585c1"> <br />
 
