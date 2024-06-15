@@ -21,7 +21,8 @@ Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Euleria
 
 <br />
 
-## 2. Stratospheric transport, dynamics, and aerosol processes.
+2 Stratospheric transport, dynamics, and aerosol processes.
+------
 
 To understand how the background circulation (e.g., BDC, QBO, tropopause folding) influences particle transport in the stratosphere, I use a Lagrangian trajectory model (driven by ERA5 data) to simulate particle transport in the stratosphere based on a stratospheric aerosol injection (SAI) strategy (All particles have initial locations at tropical lower stratosphere) under present-day conditions. Based on the simulating results, I: <br />
 (1) Quantify particles’ number, flux, lifetime, and tropospheric sinks in different stratospheric regions (i.e., tropical, mid-lat, polar regions), as shown in Figure 2. <br />
@@ -37,24 +38,34 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 
 <br />
 
-## 3. Aerosol-cloud interactions (ACI) in the marine boundary layer.
+3 Aerosol-cloud interactions (ACI) in the marine boundary layer.
+------
 
-<img align="center" width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/9e78ec97-fd5c-4517-a76d-9f04e261a0f3">
+<p align="center">
+<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/9e78ec97-fd5c-4517-a76d-9f04e261a0f3">
 </p>
 
 <br />
 
-## 4. Climate engineering (geoengineering).
+4 Climate engineering (geoengineering).
+------
 
 <p align="center">
 <img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/c3edf598-db13-4259-9845-254a35c7668e">
 </p>
-Figure 4. Mean stratospheric lifetime of particles injected at different injection altitudes for 4 different injection strategies.
+Figure 4. Mean stratospheric lifetime of particles injected at different injection altitudes for four different injection strategies. The table in the orange box shows three metrics that evaluate particle lifetime from the four injection strategies at 20 km. <br />
 
 <br />
 
-## 5. Renewable energies & environment. ([Sun et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JD028028))
+5 Others
+------
+### Atmospheric aerosols and chemistry:
+Implementing Size-Resolved Stratospheric Sulfate Aerosol in a Chemistry Transport Model to Simulate Pinatubo Volcano Eruption (Sun and Eastham, in preparation). <br />
 
-<p align="center">
-<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/f5cf37f5-b875-4cd6-8cd8-627ec6ea75b7"> <br />
+### Renewable energies & environment:
+Using WRF Model to Simulate the Climatic Impacts of Wind Farms ([Sun et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JD028028)). <br />
+
+### Machine learning:
+Using Convolutional Neural Network to Separate Cirrus Clouds and Aircraft Contrails Based on Satellite Images (Hu and Sun, in preparation). <br />
+
 
