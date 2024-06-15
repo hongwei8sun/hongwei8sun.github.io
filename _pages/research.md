@@ -28,7 +28,8 @@ To understand how the background circulation (e.g., BDC, QBO, tropopause folding
 (4) Find a zonal asymmetry of poleward transport for particles in the tropical lower stratosphere ([Sun et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105371)). <br />
 
 <p align="center">
-<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/cab7f734-2ca9-4022-a6bd-4fb179fca3b9"> <br />
+<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/cab7f734-2ca9-4022-a6bd-4fb179fca3b9"> 
+</p>
 Figure 2. Particle number N (red values with the unit of particles), number flux F (blue values with a unit of particles
 per year), and lifetime L (purple values with a unit of years) in or between different stratospheric regions (black boxes) during the steady-state stage (2005.01–2010.01). <br />
 
