@@ -38,7 +38,7 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 
 <br />
 
-3 Aerosol-cloud interactions (ACI) in the marine boundary layer.
+3 Aerosol-cloud interactions (ACI) in large eddy simulations (LES).
 ------
 
 <p align="center">
@@ -63,7 +63,7 @@ Figure 4. Mean stratospheric lifetime of particles injected at different injecti
 Implementing Size-Resolved Stratospheric Sulfate Aerosol in a Chemistry Transport Model to Simulate Pinatubo Volcano Eruption (Sun and Eastham, in preparation). <br />
 
 ### Renewable energies & environment:
-Using WRF Model to Simulate the Climatic Impacts of Wind Farms ([Sun et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JD028028)). <br />
+Using the WRF Model to Simulate the Climatic Impacts of Wind Farms (which are parameterized as the momentum sink and turbulence source in the planetary boundary layer (PBL) scheme) ([Sun et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JD028028)). <br />
 
 ### Machine learning:
 Using Convolutional Neural Network to Separate Cirrus Clouds and Aircraft Contrails Based on Satellite Images (Hu and Sun, in preparation). <br />
