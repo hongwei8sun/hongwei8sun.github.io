@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am focusing on developing and applying different types of models to study multiscale processes in the atmosphere. My main research interests include: (1) large-scale stratospheric transport, dynamics, and aerosol processes, (2) smaller-scale aerosol-cloud interactions in marine boundary layer, and (3) their applications in climate intervention (geoengineering).
-
-<br />
+I am focusing on developing and applying different types of models to study multiscale processes in the atmosphere. My main research interests include: (1) large-scale stratospheric transport, dynamics, and aerosol processes, (2) smaller-scale aerosol-cloud interactions in marine boundary layer, and (3) their applications in climate intervention (geoengineering). <br />
 
 ## 1. Multiscale model application and development. ([Sun et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816))
 
