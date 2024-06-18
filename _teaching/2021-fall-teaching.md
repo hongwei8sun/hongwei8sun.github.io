@@ -1,7 +1,7 @@
 ---
 title: "TF: EPS137/IGA416-Energy within Environmental Constraints"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate/graduate course"
 permalink: /teaching/2021-fall-teaching
 venue: "Harvard University"
 date: 2021-09-01
