@@ -14,7 +14,7 @@ I am a postdoc working with [Dr. Robert Wood](https://atmos.uw.edu/faculty-and-r
 
 My main research interests are developing and applying multiscale modeling methods to study climate science, including: (1) larger-scale stratospheric transport, dynamics, and aerosol processes, (2) small-scale aerosol-cloud interactions in the marine boundary layer, and (3) their applications in climate engineering (geoengineering). <br />
 
-Feel free to contact me at: *hongwei8@uw.edu*. <br />
+Feel free to contact me at: *hongwei8@uw.edu* <br />
 
 News
 ------
