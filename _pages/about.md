@@ -18,7 +18,7 @@ Feel free to contact me at: *hongwei8@uw.edu* <br />
 
 # News <br />
 
-## 07/19/2024: <br />
+## 07/22/2024: <br />
 I will give an online talk at [2024 APARC Reanalysis Intercomparison (A-RIP) Planning Workshop.](https://s-rip.github.io/events/meeting2024/) <br />
 **Title:** *Quantifying Stratospheric Particle Transport and Exploring Related Physical Drivers: A Lagrangian Analysis.* <br />
 <br />
