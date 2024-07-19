@@ -10,7 +10,7 @@ location: "Seattle, USA"
 
 Project: Using Data-Driven Methods to Estimate Cloud Radiative Effects.
 
-CICOES undergraduate intern program: https://cicoes.uw.edu/education/internships/ <br/>
+CICOES undergraduate intern program: *https://cicoes.uw.edu/education/internships/* <br/>
 
 ### [12. Using Data-Driven Methods to Estimate Cloud Radiative Effects](https://cicoes.uw.edu/education/internships/projects/) <br/>
 Mentor: Dr. Hongwei Sun, UW Department of Atmospheric Sciences <br/>
