@@ -4,7 +4,7 @@ collection: teaching
 type: "Student: Liam Schiffer (Undergraduate from University of Wisconsin, Madison)"
 permalink: /teaching/2024-CICOES-mentor
 venue: "CICOES, University of Washington"
-date: 06/17/2024
+date: 2024-06-17
 location: "Seattle, USA"
 ---
 
