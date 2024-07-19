@@ -21,7 +21,7 @@ News
 
 ### 07/19/2024: <br />
 I will give an online talk at [2024 APARC Reanalysis Intercomparison (A-RIP) Planning Workshop.](https://s-rip.github.io/events/meeting2024/) <br />
-Title: *Quantifying Stratospheric Particle Transport and Exploring Related Physical Drivers: A Lagrangian Analysis.* <br />
+**Title:** *Quantifying Stratospheric Particle Transport and Exploring Related Physical Drivers: A Lagrangian Analysis.* <br />
 <br />
 
 ### 06/14/2024: <br />
@@ -34,12 +34,12 @@ Call for abstracts at AGU2024! <br />
 
 ### 06/03/2024: <br />
 I will give a poster presentation at [CFMIP conference](https://sites.bc.edu/cfmip2024/conference-program/) in Boston. <br />
-Title: *Response of Aerosol-Cloud Interactions to Global Warming in Large Eddy Simulations.* <br />
+**Title:** *Response of Aerosol-Cloud Interactions to Global Warming in Large Eddy Simulations.* <br />
 <br />
 
 ### 05/30/2024: <br />
 Check our [new paper](www.nature.com/articles/s41612-024-00664-8) in npj climate and atmospheric science! The paper is about stratospheric transport and dynamics, where we: <br />
-(1) Quantify the particle transport (e.g., particle number, lifetime, flux) in the stratosphere. <br />
-(2) Explore the physical drivers (e.g., QBO, tropopause folding) influencing the stratospheric transport. <br />
+**(1)** Quantify the particle transport (e.g., particle number, lifetime, flux) in the stratosphere. <br />
+**(2)** Explore the physical drivers (e.g., QBO, tropopause folding) influencing the stratospheric transport. <br />
 <br />
 
