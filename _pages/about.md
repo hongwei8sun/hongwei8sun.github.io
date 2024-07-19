@@ -16,7 +16,7 @@ My main research interests are developing and applying multiscale modeling metho
 
 Feel free to contact me at: *hongwei8@uw.edu* <br />
 
-# News
+## News
 
 ## 07/19/2024: <br />
 I will give an online talk at [2024 APARC Reanalysis Intercomparison (A-RIP) Planning Workshop.](https://s-rip.github.io/events/meeting2024/) <br />
