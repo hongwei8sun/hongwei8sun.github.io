@@ -8,7 +8,7 @@ date: 2024-06-17
 location: "Seattle, USA"
 ---
 
-[Project](https://cicoes.uw.edu/education/internships/projects/): Using Data-Driven Methods to Estimate Cloud Radiative Effects.
+Project: Using Data-Driven Methods to Estimate Cloud Radiative Effects.
 
 CICOES undergraduate intern program: https://cicoes.uw.edu/education/internships/ <br/>
 
