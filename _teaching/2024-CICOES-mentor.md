@@ -1,5 +1,5 @@
 ---
-title: "Mentor in the CICOES undergraduate intern program at University of Washington"
+title: "Mentor in the [CICOES undergraduate intern program](https://cicoes.uw.edu/education/internships/) at University of Washington"
 collection: teaching
 type: "Student: Liam Schiffer (Undergraduate from University of Wisconsin, Madison)"
 permalink: /teaching/2024-CICOES-mentor
