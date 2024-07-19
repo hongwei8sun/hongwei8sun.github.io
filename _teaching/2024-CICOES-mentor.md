@@ -1,14 +1,14 @@
 ---
 title: "2024: Mentor in the CICOES undergraduate intern program at University of Washington"
 collection: teaching
-type: "Student: Liam Schiffer"
+type: "Project: Using Data-Driven Methods to Estimate Cloud Radiative Effects."
 permalink: /teaching/2024-CICOES-mentor
-venue: "Undergraduate from University of Wisconsin, Madison"
-date:
+venue: "CICOES, University of Washington"
+date: 2024-06-17
 location: "Seattle, USA"
 ---
 
-Project: Using Data-Driven Methods to Estimate Cloud Radiative Effects.
+Student: Liam Schiffer (Undergraduate from University of Wisconsin, Madison)
 
 CICOES undergraduate intern program: *https://cicoes.uw.edu/education/internships/* <br/>
 
