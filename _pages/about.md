@@ -12,7 +12,7 @@ Welcome to my website! <br />
 
 I am a postdoc working with [Dr. Robert Wood](https://atmos.uw.edu/faculty-and-research/core-faculty/robert-wood/) and [Dr. Peter Blossey](https://atmos.uw.edu/faculty-and-research/core-faculty/peter-blossey/) at the [Department of Atmospheric Sciences, UW](https://atmos.uw.edu/faculty-and-research/postdoctoral-researchers/). Before the postdoc, I got my PhD from Harvard University in 2023, working with [Dr. David Keith](https://keith.seas.harvard.edu/people/david-keith) (PhD advisor) and [Dr. Sebastian Eastham](https://globalchange.mit.edu/about-us/personnel/eastham-sebastian). <br />
 
-My main research interests are developing and applying multiscale modeling methods to study climate science, including:  <br />
+My main research interests are developing and applying multiscale modeling methods to study atmospheric and climate science, including:  <br />
 (1) Large-scale stratospheric transport, dynamics, and aerosol processes. <br />
 (2) Small-scale aerosol-cloud interactions in the marine boundary layer. <br />
 (3) Their (1 and 2) applications in climate engineering (geoengineering). <br />
