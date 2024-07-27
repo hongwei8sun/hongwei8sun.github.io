@@ -22,6 +22,7 @@ I created a Lagrangian plume model and coupled the new Lagrangian plume model in
 </p>
 Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Eulerian model with an embedded Lagrangian plume model) <br />
 
+<br />
 
 2 Stratospheric transport, dynamics, and aerosol processes.
 ------
@@ -32,18 +33,22 @@ To understand how the background circulation (e.g., BDC, QBO, tropopause folding
 (3) Explore the mechanisms of how QBO modulates the stratosphere-to-troposphere particle flux (ST-flux) crossing the tropopause, as shown in Figure 3. <br />
 (4) Find a zonal asymmetry of poleward transport for particles in the tropical lower stratosphere ([Sun et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105371)). <br />
 
+<br />
+
 <p align="left">
 <img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/cab7f734-2ca9-4022-a6bd-4fb179fca3b9"> 
 </p>
 Figure 2. Particle number N (red values with the unit of particles), number flux F (blue values with a unit of particles
 per year), and lifetime L (purple values with a unit of years) in or between different stratospheric regions (black boxes) during the steady-state stage. <br />
 
+<br />
 
 <p align="left">
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/232f56b0-a53c-41cb-a85f-6bc2335ab101"> 
 </p>
 Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux (ST-flux). <br />
 
+<br />
 
 3 Aerosol-cloud interactions (ACI) in large eddy simulations (LES).
 ------
@@ -52,6 +57,7 @@ Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux 
 <img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/9e78ec97-fd5c-4517-a76d-9f04e261a0f3">
 </p>
 
+<br />
 
 4 Climate engineering (geoengineering).
 ------
@@ -61,6 +67,7 @@ Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux 
 </p>
 Figure 5. Mean stratospheric lifetime of particles injected at different injection altitudes for four different injection strategies. The table in the orange box shows three metrics that evaluate particle lifetime from the four injection strategies at 20 km. <br />
 
+<br />
 
 5 Others
 ------
