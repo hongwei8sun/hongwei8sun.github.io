@@ -45,6 +45,7 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 
 <p align="left">
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/232f56b0-a53c-41cb-a85f-6bc2335ab101"> 
+
 Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux (ST-flux). <br />
 
 <br />
