@@ -18,7 +18,7 @@ I am focusing on developing and applying different types of models to study mult
 I created a Lagrangian plume model and coupled the new Lagrangian plume model into a global model to build a multiscale plume-in-grid (PiG) model ([Sun et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816)). This coupled PiG model is able to resolve subgrid plumes (e.g., aircraft plumes), which cannot be resolved by conventional global models. <br />
 
 <p align="left">
-<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/8123c592-f33e-4915-b6f7-f43843e585c1">
+<img width="800" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/8123c592-f33e-4915-b6f7-f43843e585c1">
 </p>
 Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Eulerian model with an embedded Lagrangian plume model) <br />
 
@@ -36,7 +36,7 @@ To understand how the background circulation (e.g., BDC, QBO, tropopause folding
 <br />
 
 <p align="left">
-<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/cab7f734-2ca9-4022-a6bd-4fb179fca3b9"> 
+<img width="800" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/cab7f734-2ca9-4022-a6bd-4fb179fca3b9"> 
 
 Figure 2. Particle number N (red values with the unit of particles), number flux F (blue values with a unit of particles
 per year), and lifetime L (purple values with a unit of years) in or between different stratospheric regions (black boxes) during the steady-state stage. <br />
@@ -44,7 +44,7 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 <br />
 
 <p align="left">
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/232f56b0-a53c-41cb-a85f-6bc2335ab101"> 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/232f56b0-a53c-41cb-a85f-6bc2335ab101"> 
 
 Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux (ST-flux). <br />
 
@@ -54,7 +54,7 @@ Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux 
 ------
 
 <p align="left">
-<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/9e78ec97-fd5c-4517-a76d-9f04e261a0f3">
+<img width="800" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/9e78ec97-fd5c-4517-a76d-9f04e261a0f3">
 </p>
 
 <br />
@@ -63,7 +63,7 @@ Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux 
 ------
 
 <p align="left">
-<img width="700" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/c3edf598-db13-4259-9845-254a35c7668e">
+<img width="800" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/c3edf598-db13-4259-9845-254a35c7668e">
 </p>
 Figure 5. Mean stratospheric lifetime of particles injected at different injection altitudes for four different injection strategies. The table in the orange box shows three metrics that evaluate particle lifetime from the four injection strategies at 20 km. <br />
 
