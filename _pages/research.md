@@ -28,9 +28,9 @@ Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Euleria
 ------
 
 To understand how the background circulation (e.g., BDC, QBO, tropopause folding) influences particle transport in the stratosphere, I use a Lagrangian trajectory model (driven by ERA5 data) to simulate particle transport in the stratosphere based on a stratospheric aerosol injection (SAI) strategy (All particles have initial locations at tropical lower stratosphere) under present-day conditions. Based on the simulating results, I: <br />
-(1) Quantify particles’ number, flux, lifetime, and tropospheric sinks in different stratospheric regions (i.e., tropical, mid-lat, polar regions), as shown in Figure 2. <br />
+(1) Quantify particles’ number, flux, lifetime, and tropospheric sinks in different stratospheric regions (i.e., tropical, mid-lat, polar regions), as shown in Figure 2. ([Sun et al., 2024](https://www.nature.com/articles/s41612-024-00664-8)). <br />
 (2) Evaluate particles’ tropospheric sinks that are co-located with tropopause folding mainly beneath the mid-lat jet stream. <br />
-(3) Explore the mechanisms of how QBO modulates the stratosphere-to-troposphere particle flux (ST-flux) crossing the tropopause, as shown in Figure 3. ([Sun et al., 2024](https://www.nature.com/articles/s41612-024-00664-8)). <br />
+(3) Explore the mechanisms of how QBO modulates the stratosphere-to-troposphere particle flux (ST-flux) crossing the tropopause, as shown in Figure 3. <br />
 (4) Find a zonal asymmetry of poleward transport for particles in the tropical lower stratosphere ([Sun et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105371)). <br />
 
 <p align="center">
