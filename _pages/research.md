@@ -37,7 +37,7 @@ To understand how the background circulation (e.g., BDC, QBO, tropopause folding
 
 <p align="left">
 <img width="800" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/cab7f734-2ca9-4022-a6bd-4fb179fca3b9"> 
-
+</p>
 Figure 2. Particle number N (red values with the unit of particles), number flux F (blue values with a unit of particles
 per year), and lifetime L (purple values with a unit of years) in or between different stratospheric regions (black boxes) during the steady-state stage. <br />
 
@@ -45,7 +45,7 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 
 <p align="left">
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/232f56b0-a53c-41cb-a85f-6bc2335ab101"> 
-
+</p>
 Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux (ST-flux). <br />
 
 <br />
