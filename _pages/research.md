@@ -69,7 +69,7 @@ Figure 5. Mean stratospheric lifetime of particles injected at different injecti
 
 <br />
 
-5 Others
+5 Others.
 ------
 ### Atmospheric aerosols and chemistry:
 Implementing Size-Resolved Stratospheric Sulfate Aerosol in a Chemistry Transport Model to Simulate Pinatubo Volcano Eruption (Sun and Eastham, in preparation). <br />
