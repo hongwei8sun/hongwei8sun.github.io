@@ -12,7 +12,7 @@ I am focusing on developing and applying different types of models to study mult
 
 <br />
 
-1 Multiscale model development.
+Multiscale model development.
 ------
 
 I created a Lagrangian plume model and coupled the new Lagrangian plume model into a global model to build a multiscale plume-in-grid (PiG) model ([Sun et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816)). This coupled PiG model is able to resolve subgrid plumes (e.g., aircraft plumes), which cannot be resolved by conventional global models. <br />
@@ -24,7 +24,7 @@ Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Euleria
 
 <br />
 
-2 Stratospheric transport, dynamics, and aerosol processes.
+Stratospheric transport, dynamics, and aerosol processes.
 ------
 
 To understand how the background circulation (e.g., BDC, QBO, tropopause folding) influences particle transport in the stratosphere, I use a Lagrangian trajectory model (driven by ERA5 data) to simulate particle transport in the stratosphere based on a stratospheric aerosol injection (SAI) strategy (All particles have initial locations at tropical lower stratosphere) under present-day conditions. Based on the simulating results, I: <br />
@@ -50,7 +50,7 @@ Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux 
 
 <br />
 
-3 Aerosol-cloud interactions (ACI) in large eddy simulations (LES).
+Aerosol-cloud interactions (ACI) in large eddy simulations (LES).
 ------
 
 <p align="left">
@@ -59,7 +59,7 @@ Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux 
 
 <br />
 
-4 Climate engineering (geoengineering).
+Climate engineering (geoengineering).
 ------
 
 <p align="left">
@@ -69,7 +69,7 @@ Figure 5. Mean stratospheric lifetime of particles injected at different injecti
 
 <br />
 
-5 Others.
+Others.
 ------
 ### Atmospheric aerosols and chemistry:
 Implementing Size-Resolved Stratospheric Sulfate Aerosol in a Chemistry Transport Model to Simulate Pinatubo Volcano Eruption (Sun and Eastham, in preparation). <br />
