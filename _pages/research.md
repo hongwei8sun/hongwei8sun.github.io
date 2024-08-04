@@ -56,7 +56,7 @@ Aerosol-cloud interactions (ACI) in large eddy simulations (LES).
 <p align="left">
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3cede2e-4d06-46dd-9c7d-f590cac5178e">
 </p>
-Figure 4. Aerosol-cloud interactions (represented by the differences between clean and polluted marine boundary layers) in the present day (CTL) and a warmer future (2xCO2, P2CO2). <br />
+Figure 4. Aerosol-cloud interactions (represented by the differences between clean and polluted marine boundary layers) in the present day (CTL) and a warmer future (2xCO2, P2CO2) over the Northeast Pacific marine boundary layer. <br />
 
 
 <br />
