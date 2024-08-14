@@ -10,7 +10,7 @@ I am focusing on developing and applying different types of models to study mult
 2. Smaller-scale aerosol-cloud interactions in the marine boundary layer.  <br />
 3. Their (1 and 2) applications in climate intervention (geoengineering). <br />
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/3d080b5a-8506-45db-80e8-72a144a15461">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3d080b5a-8506-45db-80e8-72a144a15461">
 
 
 <br />
