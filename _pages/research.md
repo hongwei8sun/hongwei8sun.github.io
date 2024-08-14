@@ -12,6 +12,7 @@ I am focusing on developing and applying different types of models to study mult
 3. Their (1 and 2) applications in climate intervention (geoengineering). <br />
 
 
+
 Developing a coupled multiscale model.
 ------
 
@@ -22,7 +23,7 @@ I created a Lagrangian plume model and coupled the new Lagrangian plume model in
 </p>
 Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Eulerian model with an embedded Lagrangian plume model) <br />
 
-<br />
+
 
 Stratospheric transport, dynamics, and aerosol processes.
 ------
@@ -48,7 +49,7 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 </p>
 Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux (ST-flux). <br />
 
-<br />
+
 
 Aerosol-cloud interactions (ACI) in large eddy simulations (LES).
 ------
@@ -59,7 +60,6 @@ Aerosol-cloud interactions (ACI) in large eddy simulations (LES).
 Figure 4. Responses of stratocumulus clouds to different aerosol concentrations (clean vs. polluted) in the Northeast Pacific marine boundary layer in the present day (CTL) and in a warmer future (2xCO2, P2CO2). Aerosol-cloud interactions can be represented by the differences between clean vs. polluted cases. <br />
 
 
-<br />
 
 Climate engineering (geoengineering).
 ------
@@ -69,7 +69,7 @@ Climate engineering (geoengineering).
 </p>
 Figure 5. Mean stratospheric lifetime of particles injected at different injection altitudes for four different injection strategies. The table in the orange box shows three metrics that evaluate particle lifetime from the four injection strategies at 20 km. <br />
 
-<br />
+
 
 Others.
 ------
