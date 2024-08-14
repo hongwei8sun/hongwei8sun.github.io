@@ -16,7 +16,9 @@ I am a postdoc working with [Dr. Robert Wood](https://atmos.uw.edu/faculty-and-r
 
 My main research interests are developing and applying multiscale modeling methods to study atmospheric and climate science. More details can be found on my [research page](https://hongwei8sun.github.io/research/). <br />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/3d080b5a-8506-45db-80e8-72a144a15461">
+<p align="left">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a6b922bd-760c-443c-bd79-fed160e6832d">
+</p>
 
 Feel free to contact me at: *hongwei8@uw.edu* <br />
 <br />
