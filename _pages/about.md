@@ -14,10 +14,9 @@ I am a postdoc working with [Dr. Robert Wood](https://atmos.uw.edu/faculty-and-r
 
 **I will join the [University of Hawaii](https://www.soest.hawaii.edu/atmo/index.php/2023/10/31/oceanography-atmospheric-sciences-more-highly-ranked-for-program-excellence/) as a Tenure-Track Assistant Professor in Climate Science in 2025.**  <br />
 
-My main research interests are developing and applying multiscale modeling methods to study atmospheric and climate science, including:  <br />
-(1) Large-scale stratospheric transport, dynamics, and aerosol processes. <br />
-(2) Small-scale aerosol-cloud interactions in the marine boundary layer. <br />
-(3) Their (1 and 2) applications in climate engineering (geoengineering). <br />
+My main research interests are developing and applying multiscale modeling methods to study atmospheric and climate science. More details can be found on my [research page](https://hongwei8sun.github.io/research/). <br />
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3d080b5a-8506-45db-80e8-72a144a15461">
 
 Feel free to contact me at: *hongwei8@uw.edu* <br />
 <br />
