@@ -28,9 +28,9 @@ I will give an online talk at [2024 APARC Reanalysis Intercomparison (A-RIP) Pla
 ## 06/14/2024: <br />
 Call for abstracts at AGU2024! <br />
 (1) [A127:](https://agu.confex.com/agu/agu24/prelim.cgi/Session/224927) <br />
-<img width="922" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/3c9802b2-7793-4b20-ab7e-88146444d43b"> <br />
+<img width="1000" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/3c9802b2-7793-4b20-ab7e-88146444d43b"> <br />
 (2) [A051:](https://agu.confex.com/agu/agu24/prelim.cgi/Session/224955) <br />
-<img width="924" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/2d9fdc54-2496-4491-98d5-a9d5833226b6"> <br />
+<img width="1000" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/2d9fdc54-2496-4491-98d5-a9d5833226b6"> <br />
 <br />
 
 ## 06/03/2024: <br />
