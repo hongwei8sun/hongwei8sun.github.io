@@ -21,7 +21,7 @@ My main research interests are developing and applying multiscale modeling metho
 # News
 
 ## 08/31/2024
-I have received a non-compensated faculty position (as an incoming assistant professor) from the University of Hawaii! From now on, feel free to contact me at: *hongwei8@hawaii.edu*.
+I have received a non-compensated faculty position (as an incoming assistant professor) from the University of Hawaii! From now on, feel free to contact me at: *hongwei8@hawaii.edu*. <br />
 <br />
 
 ## 07/22/2024: <br />
