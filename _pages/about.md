@@ -20,6 +20,10 @@ My main research interests are developing and applying multiscale modeling metho
 
 # News
 
+## 08/31/2024
+I have received a non-compensated faculty position (as an incoming assistant professor) from the University of Hawaii! From now on, feel free to contact me at: *hongwei8@hawaii.edu*.
+<br />
+
 ## 07/22/2024: <br />
 I will give an online talk at [2024 APARC Reanalysis Intercomparison (A-RIP) Planning Workshop.](https://s-rip.github.io/events/meeting2024/) <br />
 **Title:** *Quantifying Stratospheric Particle Transport and Exploring Related Physical Drivers: A Lagrangian Analysis.* <br />
