@@ -1,4 +1,9 @@
-# News
+---
+layout: archive
+title: "News"
+permalink: /News/
+author_profile: true
+---
 
 ## 08/31/2024
 I have received a non-compensated faculty position (as an incoming assistant professor) from the University of Hawaii! From now on, feel free to contact me at: *hongwei8@hawaii.edu*. <br />
