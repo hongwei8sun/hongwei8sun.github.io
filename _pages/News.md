@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 08/31/2024
-I have received a non-compensated faculty position (as an incoming assistant professor) from the University of Hawaii. From now on, feel free to contact me at: *hongwei8@hawaii.edu*. <br />
+I have received a non-compensated faculty position (as an incoming assistant professor) from the [University of Hawaii](https://www.soest.hawaii.edu/atmo/index.php/2023/10/31/oceanography-atmospheric-sciences-more-highly-ranked-for-program-excellence/). From now on, feel free to contact me at: *hongwei8@hawaii.edu*. <br />
 <br />
 
 ## 07/22/2024: <br />
