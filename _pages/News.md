@@ -28,7 +28,7 @@ I will give a poster presentation at [CFMIP conference](https://sites.bc.edu/cfm
 <br />
 
 ## 05/30/2024: <br />
-Check our [new paper](www.nature.com/articles/s41612-024-00664-8) in npj climate and atmospheric science! The paper is about stratospheric transport and dynamics, where we: <br />
+Check our [new paper](https://www.nature.com/articles/s41612-024-00664-8) in npj climate and atmospheric science! The paper is about stratospheric transport and dynamics, where we: <br />
 **(1)** *Quantify the particle transport (e.g., particle number, lifetime, flux, tropospheric sinks) in the stratosphere.* <br />
 **(2)** *Explore the physical drivers (e.g., QBO, tropopause folding) influencing the stratospheric transport.* <br />
 <br />
