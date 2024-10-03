@@ -74,12 +74,12 @@ Figure 5. Mean stratospheric lifetime of particles injected at different injecti
 Others.
 ------
 ### Atmospheric aerosols and chemistry:
-Implementing Size-Resolved Stratospheric Sulfate Aerosol in a Chemistry Transport Model to Simulate Pinatubo Volcano Eruption (Sun and Eastham, in preparation). <br />
+Implementing size-resolved stratospheric sulfate aerosol in a chemistry transport model to simulate pinatubo volcano eruption (Sun and Eastham, in preparation). <br />
 
 ### Renewable energies & environment:
-Using the WRF Model to Simulate the Climatic Impacts of Wind Farms (which are parameterized as the momentum sink and turbulence source in the planetary boundary layer (PBL) scheme) ([Sun et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JD028028)). <br />
+Using the WRF Model to simulate the climatic impacts of wind farms, which are parameterized as the momentum sink and turbulence source in the planetary boundary layer (PBL) scheme. ([Sun et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017JD028028)). <br />
 
 ### Machine learning:
-Using Convolutional Neural Network to Separate Cirrus Clouds and Aircraft Contrails Based on Satellite Images (Hu and Sun, in preparation). <br />
+Using a convolutional neural network (U-Net) to separate cirrus clouds and aircraft contrails based on satellite images (Hu and Sun, in preparation). <br />
 
 
