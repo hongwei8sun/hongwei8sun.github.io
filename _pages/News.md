@@ -5,7 +5,7 @@ permalink: /News/
 author_profile: true
 ---
 
-## 09/19/2024
+## 09/24/2024
 Thanks to the courtesy travel support from US [CLIVAR](https://usclivar.org/), I will be attending the [Micro2Macro Workshop](https://usclivar.org/meetings/micro2macro) at the University of Wyoming in Laramie from October 28-30. I will present my research on aerosol-cloud interactions.
 
 ## 08/31/2024
