@@ -31,5 +31,4 @@ The PhD application process consists of two parts: <br />
 Part 1: Submission to University of Hawaii Graduate Division. <br />
 Part 2: Submission of Materials to the Dept. of Atmospheric Sciences. <br />
 For detailed instructions, please visit:: https://www.soest.hawaii.edu/atmo/index.php/graduate-program-overview/#gradapply. <br />
-![image](https://github.com/user-attachments/assets/2f119a66-dacf-41cb-9247-0c0c973d3a5d) <br />
 
