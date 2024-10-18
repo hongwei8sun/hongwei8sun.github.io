@@ -16,7 +16,7 @@ Dr. Hongwei Sun is seeking 1-2 PhD students (starting Fall 2025) to join his res
 
 **Preferred Qualifications:** <br />
 1. Research experience in atmospheric sciences. <br />
-2. Proficiency in programming languages (e.g., Fortran, Matlab, Python, R, or NCL). <br />
+2. Proficiency in programming languages (e.g., Fortran, Python, Matlab, R). <br />
 3. Excellent written and oral communication skills. <br />
 
 **Please note that while the preferred qualifications are beneficial, Dr. Sun is committed to helping students develop these skills throughout their graduate studies, provided they are self-motivated and enthusiastic.* <br />
