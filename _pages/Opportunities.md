@@ -13,7 +13,7 @@ Dr. Hongwei Sun is seeking 1-2 PhD students to join his research group in the De
 Required qualifications for PhD candidates:
 ------
 
-1. A BS or MS degree in Atmospheric Sciences, Environmental Science, Meteorology, Climatology, Physics, Math, Computer Science, or a related field. <br />
+1. A BS or MS degree in Atmospheric Science, Environmental Science, Meteorology, Climatology, Physics, Math, Computer Science, or a related field. <br />
 2. Strong self-motivation and enthusiasm for atmospheric sciences. <br />
 
 Preferred qualifications:
