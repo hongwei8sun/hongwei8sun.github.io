@@ -12,7 +12,7 @@ Welcome to my website! I am a postdoc working with [Dr. Robert Wood](https://atm
 
 **I will be joining the [University of Hawaii](https://www.soest.hawaii.edu/atmo/index.php/2023/10/31/oceanography-atmospheric-sciences-more-highly-ranked-for-program-excellence/) as a Tenure-Track Assistant Professor in Climate Science starting in August 2025.** <br />
 
-**I am seeking 1-2 PhD students to join my group at the University of Hawaii, see [Opportunities](https://hongwei8sun.github.io/Opportunities/) for more details.** <br />
+**I am seeking 1-2 PhD students (starting Fall 2025) to join my group at the University of Hawaii, see [Opportunities](https://hongwei8sun.github.io/Opportunities/) for more details.** <br />
 
 My main research interests are developing and applying multiscale modeling methods to study atmospheric and climate science. More details can be found on the [Research](https://hongwei8sun.github.io/research/) page. Feel free to contact me at: *hongwei8@uw.edu*. <br />
 
