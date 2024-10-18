@@ -8,7 +8,7 @@ author_profile: true
 PhD Positions in Stratosphere and Aerosol-Cloud Interactions at the University of Hawaii
 --
 
-Dr. [Hongwei Sun](https://hongwei8sun.github.io/) is seeking 1-2 PhD students (starting Fall 2025) to join his research group in the [Department of Atmospheric Sciences](https://www.soest.hawaii.edu/atmo/) at the University of Hawaii at Manoa. Our group focuses on developing and applying various modeling methods to study multiscale atmospheric processes, including (1) large-scale stratospheric transport, dynamics, and aerosols and (2) small-scale aerosol-cloud interactions. Students can also study applications of (1) and (2) in climate engineering (or geoengineering) if interested. Perspective students are encouraged to email Dr. Hongwei Sun at *hongwei8@hawaii.edu* to express their interest before applying. <br />
+Dr. Hongwei Sun is seeking 1-2 PhD students (starting Fall 2025) to join his [research group](https://hongwei8sun.github.io/) in the [Department of Atmospheric Sciences](https://www.soest.hawaii.edu/atmo/) at the University of Hawaii at Manoa. Our group focuses on developing and applying various modeling methods to study multiscale atmospheric processes, including (1) large-scale stratospheric transport, dynamics, and aerosols and (2) small-scale aerosol-cloud interactions. Students can also study applications of (1) and (2) in climate engineering (or geoengineering) if interested. Perspective students are encouraged to email Dr. Hongwei Sun at *hongwei8@hawaii.edu* to express their interest before applying. <br />
 
 **Required Qualifications:** <br />
 1. A BS or MS degree in Atmospheric Science, Environmental Science, Meteorology, Climatology, Physics, Math, Computer Science, or a related field. <br />
