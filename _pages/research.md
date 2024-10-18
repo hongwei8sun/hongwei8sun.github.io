@@ -51,13 +51,13 @@ Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux 
 
 
 
-Aerosol-cloud interactions (ACI) in large eddy simulations (LES).
+Aerosol-cloud interactions (ACI) in ***large eddy simulations (LES)***.
 ------
 
 <p align="left">
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3cede2e-4d06-46dd-9c7d-f590cac5178e">
 </p>
-Figure 4. Responses of stratocumulus clouds to different aerosol concentrations (clean vs. polluted) in the Northeast Pacific marine boundary layer in the present day (CTL) and in a warmer future (2xCO2, P2CO2), simulated in ***SAM model***. Aerosol-cloud interactions can be represented by the differences between clean vs. polluted cases. <br />
+Figure 4. Responses of stratocumulus clouds to different aerosol concentrations (clean vs. polluted) in the Northeast Pacific marine boundary layer in the present day (CTL) and in a warmer future (2xCO2, P2CO2). Aerosol-cloud interactions can be represented by the differences between clean vs. polluted cases. <br />
 
 
 
