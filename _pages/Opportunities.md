@@ -18,7 +18,6 @@ Dr. Hongwei Sun is seeking 1-2 PhD students (starting Fall 2025) to join his [re
 1. Research experience in atmospheric sciences. <br />
 2. Proficiency in programming languages (e.g., Fortran, Python, Matlab, R). <br />
 3. Good written and oral communication skills. <br />
-
 **Please note that while the above qualifications are preferred, Dr. Sun is committed to helping students develop/enhance these skills throughout their graduate studies, provided they are self-motivated and enthusiastic.* <br />
 
 **Application Instructions:** <br />
