@@ -18,10 +18,12 @@ Developing a coupled multiscale model.
 
 I created a Lagrangian plume model and coupled the new ***Lagrangian plume model*** into a ***global model*** to build a ***multiscale plume-in-grid (PiG) model*** ([Sun et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816)). This coupled PiG model is able to resolve subgrid plumes (e.g., aircraft plumes), which cannot be resolved by conventional global models. <br />
 
+In the plume model, there is plume initialization (plume center, length, and cross-section), plume movement, plume expansion/compression, plume stretching, and plume splitting. An adaptive grid (2-D to 1-D) is used to represent the plume cross-section. <br />
+
 <p align="left">
 <img width="800" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/8123c592-f33e-4915-b6f7-f43843e585c1">
 </p>
-Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Eulerian model with an embedded Lagrangian plume model). In the plume model, there is plume initialization (plume center, length, and cross-section), plume movement, plume expansion/compression, plume stretching, and plume splitting. An adaptive grid (2-D to 1-D) is used to represent the plume cross-section. <br />
+Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Eulerian model with an embedded Lagrangian plume model).  <br />
 
 
 
