@@ -12,6 +12,6 @@ Instructor: Dr. Kat Huybers
 
 Course Description:
 Focuses on current research in atmospheric and climate science and the related implications for public health, business, and environmental policy.
-[https://myplan.uw.edu/course/#/courses/ATM%20S220](https://myplan.uw.edu/course/#/courses/ATM%20S220)
+[https://myplan.uw.edu/course/#/courses/ATM%20S220](https://myplan.uw.edu/course/#/courses/ATM%20S220).
 
 
