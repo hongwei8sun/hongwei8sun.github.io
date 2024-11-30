@@ -10,9 +10,9 @@ location: "Seattle, USA"
 
 Student: Liam Schiffer (Undergraduate from University of Wisconsin, Madison)
 
-CICOES undergraduate intern program: *https://cicoes.uw.edu/education/internships/* <br/>
+CICOES undergraduate intern program: *[https://cicoes.uw.edu/education/internships/](https://cicoes.uw.edu/education/internships/)* <br/>
 
-### [12. Using Data-Driven Methods to Estimate Cloud Radiative Effects](https://cicoes.uw.edu/education/internships/projects/) <br/>
+### [12. Using Data-Driven Methods to Estimate Cloud Radiative Effects](https://cicoes.uw.edu/internships/interns/liam-schiffer/) <br/>
 Mentor: Dr. Hongwei Sun, UW Department of Atmospheric Sciences <br/>
 <br/>
 
