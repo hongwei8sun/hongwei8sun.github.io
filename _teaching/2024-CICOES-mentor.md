@@ -14,5 +14,5 @@ Previous studies have shown that clouds play an important role in the Earth’s 
 <img width="1182" alt="image" src="https://github.com/user-attachments/assets/abe6d9a0-e6fd-4760-bb81-041d82baa550">
 <br/>
 
-#### More details and an introduction video can be found here: https://cicoes.uw.edu/internships/interns/liam-schiffer/.
+#### More details and an introduction video can be found here: [https://cicoes.uw.edu/internships/interns/liam-schiffer/](https://cicoes.uw.edu/internships/interns/liam-schiffer/).
 <br/>
