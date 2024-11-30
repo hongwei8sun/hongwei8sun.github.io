@@ -18,7 +18,7 @@ Mentor: Dr. Hongwei Sun, UW Department of Atmospheric Sciences <br/>
 
 <img width="1182" alt="image" src="https://github.com/user-attachments/assets/abe6d9a0-e6fd-4760-bb81-041d82baa550">
 <br/>
-### Click this *[link](https://cicoes.uw.edu/internships/interns/liam-schiffer/)* to find more details and an introduction video.
+### More details and an introduction video can be found here: https://cicoes.uw.edu/internships/interns/liam-schiffer/.
 <br/>
 <br/>
 
