@@ -14,7 +14,7 @@ I have received a non-compensated faculty position (as an incoming assistant pro
 
 
 ## 08/25/2024
-This summer, I joined the CICOES undergraduate intern program at the University of Washington. Click [here](https://cicoes.uw.edu/internships/interns/liam-schiffer/) to see my student's research results. <br />
+This summer, I joined the CICOES undergraduate intern program at the University of Washington as a research mentor. Click [here](https://cicoes.uw.edu/internships/interns/liam-schiffer/) to see my student's research results. <br />
 Project: Using Data-Driven Methods to Estimate Cloud Radiative Effects. <br />
 Student: Liam Schafer, University of Wisconsin - Madison. <br />
 
