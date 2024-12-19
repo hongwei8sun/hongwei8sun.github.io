@@ -9,8 +9,7 @@ author_profile: true
 Thanks to the courtesy travel support from the US [CLIVAR](https://usclivar.org/), I will be attending the [Micro2Macro Workshop](https://usclivar.org/meetings/micro2macro) at the University of Wyoming in Laramie from October 28-30. I will present my research on aerosol-cloud interactions. <br />
 
 
-## 09/01/2024
-I have received a non-compensated faculty position (as an incoming assistant professor) from the [University of Hawaii](https://www.soest.hawaii.edu/atmo/index.php/2023/10/31/oceanography-atmospheric-sciences-more-highly-ranked-for-program-excellence/). From now on, feel free to contact me at: *hongwei8@hawaii.edu*. <br />
+
 
 
 ## 08/20/2024
