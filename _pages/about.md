@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a postdoc working with [Dr. Robert Wood](https://atmos.uw.edu/faculty-and-research/core-faculty/robert-wood/) and [Dr. Peter Blossey](https://atmos.uw.edu/faculty-and-research/core-faculty/peter-blossey/) at the [Department of Atmospheric Sciences, UW](https://atmos.uw.edu/faculty-and-research/postdoctoral-researchers/). Before the postdoc, I got my PhD from Harvard University in 2023, working with [Dr. David Keith](https://keith.seas.harvard.edu/people/david-keith) (PhD advisor) and [Dr. Sebastian Eastham](https://globalchange.mit.edu/about-us/personnel/eastham-sebastian). <br />
+Welcome to my website! I am a postdoc working with [Dr. Robert Wood](https://atmos.uw.edu/faculty-and-research/core-faculty/robert-wood/) and [Dr. Peter Blossey](https://atmos.uw.edu/faculty-and-research/core-faculty/peter-blossey/) at the [Department of Atmospheric Sciences, UW](https://atmos.uw.edu/faculty-and-research/postdoctoral-researchers/). Before the postdoc, I got my PhD from Harvard University in 2023, working with [Dr. David Keith](https://keith.seas.harvard.edu/people/david-keith) (PhD advisor) and [Dr. Sebastian Eastham](https://globalchange.mit.edu/about-us/personnel/eastham-sebastian). I also hold a master’s degree from Tsinghua University (advisor: [Yong Luo](https://www.researchgate.net/profile/Yong-Luo-18)) and a bachelor's degree from Sun Yet-Sen University. ![image](https://github.com/user-attachments/assets/0868016c-488f-4199-8a73-53bc8282e314)
+ <br />
 
 My main research interests are developing and applying multiscale modeling methods to study atmospheric and climate science. More details can be found on the [Research](https://hongwei8sun.github.io/research/) page. Feel free to contact me at: *hongwei8@uw.edu*. <br />
 
