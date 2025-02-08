@@ -8,9 +8,9 @@ author_profile: true
 ## 12/13/2024
 I will chair two sessions and give two poster presentations at AGU24:<br />
 [Session 1](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/240051): Stratospheric Dynamics, Aerosol Processes, and Interactions with the Troposphere.<br />
-Session 2: Boundary Layer Clouds and Climate Change.<br />
-Poster 1: Lagrangian Analysis of Particle Transport in the Stratosphere: How QBO Modulates Stratosphere-to-Troposphere Flux (ST-flux)?<br />
-Poster 2: Using Large Eddy Simulations to Study How Climate Change Influences Aerosol-Cloud Interactions in Marine Boundary Layer.<br />
+[Session 2](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/239563): Boundary Layer Clouds and Climate Change.<br />
+[Poster 1](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1567634): Lagrangian Analysis of Particle Transport in the Stratosphere: How QBO Modulates Stratosphere-to-Troposphere Flux (ST-flux)?<br />
+[Poster 2](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1597169): Using Large Eddy Simulations to Study How Climate Change Influences Aerosol-Cloud Interactions in Marine Boundary Layer.<br />
 
 ## 10/20/2024
 Thanks to the courtesy travel support from the US [CLIVAR](https://usclivar.org/), I will be attending the [Micro2Macro Workshop](https://usclivar.org/meetings/micro2macro) at the University of Wyoming in Laramie from October 28-30. I will present my research on aerosol-cloud interactions. <br />
