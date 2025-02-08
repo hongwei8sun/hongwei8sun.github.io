@@ -15,4 +15,5 @@ My main research interests are developing and applying multiscale modeling metho
 **I will be joining the [University of Hawaii](https://www.soest.hawaii.edu/atmo/index.php/2023/10/31/oceanography-atmospheric-sciences-more-highly-ranked-for-program-excellence/) as a Tenure-Track Assistant Professor in Climate Science starting in August 2025.** <br />
 
 <p align="center">
+<img width="1127" alt="image" src="https://github.com/user-attachments/assets/5f9122bc-6807-427a-98cf-54dcabdebf36" />
 </p>
