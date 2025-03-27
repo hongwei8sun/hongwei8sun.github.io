@@ -5,6 +5,10 @@ permalink: /Opportunities/
 author_profile: true
 ---
 
+**09/2025:** <br />
+I will probably have a postdoc position available in September 2025. Stay tuned for updates! <br />
+<br />
+
 **03/2025:** <br />
 [Postdoctoral Scholar Opportunity in Aerosol Dynamics Modeling at the University of Chicago](https://hongwei8sun.github.io/files/Postdoc_WangLab_UChicago_Modeling_2025.pdf). <br />
 <br />
