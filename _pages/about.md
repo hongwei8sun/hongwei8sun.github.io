@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website! <br />
 
-    I am a postdoc working with [Dr. Robert Wood](https://atmos.uw.edu/faculty-and-research/core-faculty/robert-wood/) and [Dr. Peter Blossey](https://atmos.uw.edu/faculty-and-research/core-faculty/peter-blossey/) at the [Department of Atmospheric Sciences, UW](https://atmos.uw.edu/faculty-and-research/postdoctoral-researchers/). <br />
+I am a postdoc working with [Dr. Robert Wood](https://atmos.uw.edu/faculty-and-research/core-faculty/robert-wood/) and [Dr. Peter Blossey](https://atmos.uw.edu/faculty-and-research/core-faculty/peter-blossey/) at the [Department of Atmospheric Sciences, UW](https://atmos.uw.edu/faculty-and-research/postdoctoral-researchers/). <br />
     Before the postdoc, I got my PhD from Harvard University in 2023, working with [Dr. David Keith](https://keith.seas.harvard.edu/people/david-keith) (PhD advisor) and [Dr. Sebastian Eastham](https://globalchange.mit.edu/about-us/personnel/eastham-sebastian). <br />
     I also hold a master’s degree from Tsinghua University (advisor: Dr. [Yong Luo](https://www.researchgate.net/profile/Yong-Luo-18)) and a bachelor's degree from Sun Yat-Sen University. 
 
