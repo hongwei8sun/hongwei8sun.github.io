@@ -5,8 +5,8 @@ permalink: /Opportunities/
 author_profile: true
 ---
 
-**09/2025:** <br />
-I will probably have a postdoc position available in September 2025. Stay tuned for updates! <br />
+**08/2025:** <br />
+I will probably have a postdoc position available in August 2025. Stay tuned for updates! <br />
 <br />
 
 **03/2025:** <br />
