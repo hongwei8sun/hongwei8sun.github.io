@@ -16,7 +16,7 @@ I also hold a master’s degree from Tsinghua University (advisor: Dr. [Yong Luo
 
 My main research interests are developing and applying multiscale modeling methods to study atmospheric and climate science. More details can be found on the [Research](https://hongwei8sun.github.io/research/) page. Feel free to contact me at: *hongwei8@uw.edu*. <br />
 
-**I will be joining the [University of Hawaii](https://www.soest.hawaii.edu/atmo/index.php/2023/10/31/oceanography-atmospheric-sciences-more-highly-ranked-for-program-excellence/) as a Tenure-Track Assistant Professor in Climate Science starting in August 2025.** <br />
+**I will be joining the [University of Hawaii](https://www.soest.hawaii.edu/atmo/index.php/2023/10/31/oceanography-atmospheric-sciences-more-highly-ranked-for-program-excellence/) as a Tenure-Track Assistant Professor in Atmospheric Sciences starting in August 2025.** <br />
 
 <p align="center">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5f9122bc-6807-427a-98cf-54dcabdebf36" />
