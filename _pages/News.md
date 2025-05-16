@@ -7,9 +7,6 @@ author_profile: true
 
 <span style='color: blue'> We are actively seeking undergraduate and graduate students (Master’s and PhD), postdoctoral researchers, and visiting scholars to join our group! We aim to align research projects with your interests and long-term career goals. If you’re interested in our work, please feel free to reach out via email at *hongwei8@hawaii.edu*. </span>
 
-### We are actively seeking undergraduate and graduate students (Master’s and PhD), postdoctoral researchers, and visiting scholars to join our group! We aim to align research projects with your interests and long-term career goals. If you’re interested in our work, please feel free to reach out via email at *hongwei8@hawaii.edu*.
-
-
 ## 12/13/2024
 I will chair two sessions and give two poster presentations at AGU24:<br />
 [Session 1](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/240051): Stratospheric Dynamics, Aerosol Processes, and Interactions with the Troposphere.<br />
