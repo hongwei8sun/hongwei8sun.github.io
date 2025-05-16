@@ -12,7 +12,6 @@ I am focusing on developing and applying different types of models to study mult
 3. Their (1 and 2) applications in climate intervention (geoengineering). <br />
 
 
-
 Developing a coupled multiscale model.
 ------
 I created a Lagrangian plume model and coupled the new ***Lagrangian plume model*** into a ***global model*** to build a ***multiscale plume-in-grid (PiG) model*** ([Sun et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816)). This coupled PiG model is able to resolve subgrid plumes (e.g., aircraft plumes), which cannot be resolved by conventional global models. <br />
