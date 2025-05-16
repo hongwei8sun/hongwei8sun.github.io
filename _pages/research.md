@@ -20,6 +20,7 @@ I created a Lagrangian plume model and coupled the new ***Lagrangian plume model
 
 <p align="left">
 <img width="1433" alt="image" src="https://github.com/user-attachments/assets/83d32009-3c96-40b6-85a6-2f40540722c7" />
+<p align="left">
 Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Eulerian model with an embedded Lagrangian plume model).  <br />
 <br />
 
@@ -37,9 +38,9 @@ To understand how the background circulation (e.g., BDC, QBO, tropopause folding
 
 <p align="left">
 <img width="800" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/cab7f734-2ca9-4022-a6bd-4fb179fca3b9"> 
-Figure 2. Particle number N (red values with the unit of particles), number flux F (blue values with a unit of particles
-per year), and lifetime L (purple values with a unit of years) in or between different stratospheric regions (black boxes) during the steady-state stage.
 </p>
+Figure 2. Particle number N (red values with the unit of particles), number flux F (blue values with a unit of particles
+per year), and lifetime L (purple values with a unit of years) in or between different stratospheric regions (black boxes) during the steady-state stage. <br />
 
 <br />
 
@@ -47,7 +48,6 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/232f56b0-a53c-41cb-a85f-6bc2335ab101"> 
 </p>
 Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux (ST-flux). <br />
-
 
 
 Aerosol-cloud interactions (ACI) in ***large eddy simulations (LES)***.
