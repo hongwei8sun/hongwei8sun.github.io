@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 12/13/2024
-I will chair two sessions and give two poster presentations at AGU24:<br />
+I will chair two oral sessions and give two poster presentations at AGU24:<br />
 [Session 1](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/240051): Stratospheric Dynamics, Aerosol Processes, and Interactions with the Troposphere.<br />
 [Session 2](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/239563): Boundary Layer Clouds and Climate Change.<br />
 [Poster 1](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1567634): Lagrangian Analysis of Particle Transport in the Stratosphere: How QBO Modulates Stratosphere-to-Troposphere Flux (ST-flux)?<br />
