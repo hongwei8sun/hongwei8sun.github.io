@@ -5,6 +5,14 @@ permalink: /News/
 author_profile: true
 ---
 
+## 06/18/2025
+Call for abstracts in two sessions at AGU25!
+
+[A092](https://agu.confex.com/agu/agu25/prelim.cgi/Session/247042):
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/3f8f368e-b3b3-4c59-97e5-351fa54e90ac" />
+
+
+
 ## 12/13/2024
 I will chair two oral sessions and give two poster presentations at AGU24:<br />
 [Session 1](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/240051): Stratospheric Dynamics, Aerosol Processes, and Interactions with the Troposphere.<br />
