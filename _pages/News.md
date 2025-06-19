@@ -23,7 +23,7 @@ University of Hawaii will work on the second workstream: "*Reducing uncertainty 
 
 ## 04/24/2025
 Attending the [2025 Solar Radiation Management Annual Meeting](https://www.simonsfoundation.org/event/solar-radiation-management-annual-meeting-2025/) hosted by the Simons Foundation. <br />
-I am involved in the project "*Modeling Atmospheric Turbulence and its Impacts on Plume Dispersion for Stratospheric Aerosol Injection*", led by Robert Wood (University of Washington).
+I am contributing to the project "*Modeling Atmospheric Turbulence and its Impacts on Plume Dispersion for Stratospheric Aerosol Injection*", led by Robert Wood (University of Washington).
 
 
 ## 04/14/2025
