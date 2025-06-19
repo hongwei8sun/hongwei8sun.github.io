@@ -17,10 +17,13 @@ Call for abstracts in two sessions at AGU25! <br />
 
 
 ## 04/14/2025
+I am excited to join the Marine Cloud Brightening (MCB) workshop hosted by the Wood Group (University of Washington). I will lead two sessions. <br />
+**SESSION 3 (“thinking outside the box”):** What new approaches could be used for improved assessment of MCB efficacy and detectability (e.g. machine learning, emulators, perturb-parameter ensembles)? <br />
+**SESSION 5 (“aerosol, cloud and climate changes: oh my!”):** How do cloud feedbacks with climate warming modulate the efficacy of MCB? How will changes in inadvertent anthropogenic aerosol emissions & changes in natural emissions with future climate modulate the future efficacy of MCB? <br />
 
 
 ## 02/20/2025
-I will give a [talk](https://www.dess.tsinghua.edu.cn/en/info/1250/2632.htm) at Department of Earth System Science, Tsinghua University <br />
+I will give a [talk](https://www.dess.tsinghua.edu.cn/en/info/1250/2632.htm) at the Department of Earth System Science, Tsinghua University. <br />
 **Title:** *Multiscale Modeling Studies for Solar Geoengineering.* <br />
 
 ## 12/13/2024
