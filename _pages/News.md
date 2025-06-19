@@ -6,14 +6,17 @@ author_profile: true
 ---
 
 ## 06/18/2025
-Call for abstracts in two sessions at AGU25!
+Call for abstracts in two sessions at AGU25! <br />
+(1) [A092](https://agu.confex.com/agu/agu25/prelim.cgi/Session/247042): <br />
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/3f8f368e-b3b3-4c59-97e5-351fa54e90ac" /> <br />
+(2) [A037](https://agu.confex.com/agu/agu25/prelim.cgi/Session/248024): <br />
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/1c93ad5e-7034-4a03-a269-cf1da542669f" /> <br />
 
-[A092](https://agu.confex.com/agu/agu25/prelim.cgi/Session/247042): <br />
-<img width="921" alt="image" src="https://github.com/user-attachments/assets/3f8f368e-b3b3-4c59-97e5-351fa54e90ac" />
 
-[A037](https://agu.confex.com/agu/agu25/prelim.cgi/Session/248024): <br />
-<img width="919" alt="image" src="https://github.com/user-attachments/assets/1c93ad5e-7034-4a03-a269-cf1da542669f" />
+## 04/24/2025
 
+
+## 04/14/2025
 
 
 ## 12/13/2024
