@@ -14,6 +14,7 @@ Call for abstracts in two sessions at AGU25! <br />
 
 
 ## 04/24/2025
+Attending the [2025 Solar Radiation Management Annual Meeting](https://www.simonsfoundation.org/event/solar-radiation-management-annual-meeting-2025/) hosted by the Simons Foundation. <br />
 
 
 ## 04/14/2025
