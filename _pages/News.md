@@ -18,9 +18,9 @@ Call for abstracts in two sessions at AGU25! <br />
 
 ## 04/14/2025
 I am excited to join the Marine Cloud Brightening (MCB) workshop hosted by the Wood Group (University of Washington) in Leavenworth, WA. I will lead two sessions. <br />
-**SESSION 3 (“thinking outside the box”):** 
+**SESSION 3 (“thinking outside the box”):**  <br />
 What new approaches could be used for improved assessment of MCB efficacy and detectability (e.g. machine learning, emulators, perturb-parameter ensembles)? <br />
-**SESSION 5 (“aerosol, cloud and climate changes: oh my!”):** 
+**SESSION 5 (“aerosol, cloud and climate changes: oh my!”):**  <br />
 How do cloud feedbacks with climate warming modulate the efficacy of MCB? How will changes in inadvertent anthropogenic aerosol emissions & changes in natural emissions with future climate modulate the future efficacy of MCB? <br />
 
 
