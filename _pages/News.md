@@ -8,8 +8,11 @@ author_profile: true
 ## 06/18/2025
 Call for abstracts in two sessions at AGU25!
 
-[A092](https://agu.confex.com/agu/agu25/prelim.cgi/Session/247042):
+[A092](https://agu.confex.com/agu/agu25/prelim.cgi/Session/247042): <br />
 <img width="921" alt="image" src="https://github.com/user-attachments/assets/3f8f368e-b3b3-4c59-97e5-351fa54e90ac" />
+
+[A037](https://agu.confex.com/agu/agu25/prelim.cgi/Session/248024): <br />
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/1c93ad5e-7034-4a03-a269-cf1da542669f" />
 
 
 
