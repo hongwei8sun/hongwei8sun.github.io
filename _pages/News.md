@@ -18,7 +18,7 @@ Happy to share that we have received new funding! <br />
 
 I am honored to contribute to the solar radiation management (SRM) [project](https://climateengineering.uchicago.edu/news/csei-receives-5-million-grant-from-quadrature-climate-foundation-to-advance-srm-research/) led by the University of Chicago.  <br />
 
-I will work on the second workstream: "*Reducing uncertainty surrounding how aerosol particles form in the wake of aircraft. This workstream will use multiscale modeling and advanced parameterization to better understand the size distribution and behavior of aerosols immediately after being released.*" <br />
+University of Hawaii will work on the second workstream: "*Reducing uncertainty surrounding how aerosol particles form in the wake of aircraft. This workstream will use multiscale modeling and advanced parameterization to better understand the size distribution and behavior of aerosols immediately after being released.*" <br />
 
 
 ## 04/24/2025
