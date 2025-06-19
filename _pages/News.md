@@ -19,6 +19,10 @@ Call for abstracts in two sessions at AGU25! <br />
 ## 04/14/2025
 
 
+## 02/20/2025
+I will give a [talk](https://www.dess.tsinghua.edu.cn/en/info/1250/2632.htm) at Department of Earth System Science, Tsinghua University <br />
+**Title:** *Multiscale Modeling Studies for Solar Geoengineering.* <br />
+
 ## 12/13/2024
 I will chair two oral sessions and give two poster presentations at AGU24:<br />
 [Session 1](https://agu.confex.com/agu/agu24/meetingapp.cgi/Session/240051): Stratospheric Dynamics, Aerosol Processes, and Interactions with the Troposphere.<br />
