@@ -13,9 +13,9 @@ Call for abstracts in two sessions at AGU25! <br />
 <img width="919" alt="image" src="https://github.com/user-attachments/assets/1c93ad5e-7034-4a03-a269-cf1da542669f" /> <br />
 
 ## 05/12/2025
-New funding received!
-I am honored to be part of the solar radiation management (SRM) [project](https://climateengineering.uchicago.edu/news/csei-receives-5-million-grant-from-quadrature-climate-foundation-to-advance-srm-research/) led by the University of Chicago. 
-I will work on the second workstream: "Reducing uncertainty surrounding how aerosol particles form in the wake of aircraft. This workstream will use multiscale modeling and advanced parameterization to better understand the size distribution and behavior of aerosols immediately after being released."
+New funding received! <br />
+I am honored to be part of the solar radiation management (SRM) [project](https://climateengineering.uchicago.edu/news/csei-receives-5-million-grant-from-quadrature-climate-foundation-to-advance-srm-research/) led by the University of Chicago.  <br />
+I will work on the second workstream: "Reducing uncertainty surrounding how aerosol particles form in the wake of aircraft. This workstream will use multiscale modeling and advanced parameterization to better understand the size distribution and behavior of aerosols immediately after being released." <br />
 
 ## 04/24/2025
 Attending the [2025 Solar Radiation Management Annual Meeting](https://www.simonsfoundation.org/event/solar-radiation-management-annual-meeting-2025/) hosted by the Simons Foundation. <br />
