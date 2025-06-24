@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Sun Group (PI: Hongwei Sun) focuses on developing and applying multiscale modeling methods to study atmospheric and climate science. The main research interests include: (1) Large-scale stratospheric transport, dynamics, and aerosol processes; (2) Small-scale aerosol–cloud interactions within the marine boundary layer; (3) The application of (1) and (2) to climate intervention (geoengineering). More details can be found on the [Research](https://hongwei8sun.github.io/research/) page. Feel free to contact me at: *hongwei8@hawaii.edu*. <br />
+Sun Group focuses on developing and applying multiscale modeling methods to study atmospheric and climate science. The main research interests include: (1) Large-scale stratospheric transport, dynamics, and aerosol processes; (2) Small-scale aerosol–cloud interactions within the marine boundary layer; (3) The application of (1) and (2) to climate intervention (geoengineering). More details can be found on the [Research](https://hongwei8sun.github.io/research/) page. Feel free to contact the group PI (Hongwei Sun) at: *hongwei8@hawaii.edu*. <br />
 
 <p align="center">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5f9122bc-6807-427a-98cf-54dcabdebf36" />
