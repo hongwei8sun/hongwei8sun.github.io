@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hongwei Sun"
+title                    : "Sun Group"
 title_separator          : "-"
-name                     : &name "Hongwei Sun"
+name                     : &name "Sun Group"
 description              : &description "student"
 url                      : https://hongwei8sun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
