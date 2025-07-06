@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 07/02/2025
-Check our new studies on aerosol-cloud interactions in arXiv [pre-print](https://arxiv.org/abs/2507.01319)!
+Check our new studies on aerosol-cloud interactions in arXiv [pre-print](https://arxiv.org/abs/2507.01319)! <br />
 **Title:** *Using Large Eddy Simulations to Study How Climate Change Influences Aerosol-Cloud Interactions.* <br />
 
 ## 06/18/2025
