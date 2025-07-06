@@ -5,6 +5,10 @@ permalink: /News/
 author_profile: true
 ---
 
+## 07/02/2025
+Check our new studies on aerosol-cloud interactions in arXiv [pre-print](https://arxiv.org/abs/2507.01319)!
+**Title:** *Using Large Eddy Simulations to Study How Climate Change Influences Aerosol-Cloud Interactions.* <br />
+
 ## 06/18/2025
 Call for abstracts in two sessions at AGU25! <br />
 (1) [A092](https://agu.confex.com/agu/agu25/prelim.cgi/Session/247042): <br />
