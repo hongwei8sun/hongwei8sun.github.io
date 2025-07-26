@@ -60,7 +60,7 @@ We find that aerosol-induced cloud changes, including first (Twomey effect) and 
 Overall, the cooling effect associated with increased aerosol concentrations will weaken in a double-CO2 climate. Our results can also help to understand and predict the cooling potential of marine cloud brightening (MCB) in a changing climate.  <br />
 
 <p align="left">
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/e3b96af1-4733-4aab-83a2-3819d3724149" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/e3b96af1-4733-4aab-83a2-3819d3724149" />
 </p>
 Figure 5. Aerosol-cloud interactions, including the first (Twomey effect) and second (LWP adjustment) indirect effects of aerosols. <br />
 
