@@ -24,10 +24,10 @@ Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Euleria
 Stratospheric transport, dynamics, and aerosol processes.
 ------
 To understand how the background circulation (e.g., BDC, QBO, tropopause folding) influences particle transport in the stratosphere, I use a ***Lagrangian trajectory model*** (driven by ERA5 data) to simulate particle transport in the stratosphere based on a stratospheric aerosol injection (SAI) strategy (All particles have initial locations at tropical lower stratosphere) under present-day conditions. Based on the simulating results, I: <br />
-(1) Quantify particles’ number, flux, lifetime, and tropospheric sinks in different stratospheric regions (i.e., tropical, mid-lat, polar regions), as shown in Figure 2. ([Sun et al., 2024](https://www.nature.com/articles/s41612-024-00664-8)). <br />
-(2) Evaluate particles’ tropospheric sinks that are co-located with tropopause folding mainly beneath the mid-lat jet stream. <br />
-(3) Explore the mechanisms of how QBO modulates the stratosphere-to-troposphere particle flux (ST-flux) crossing the tropopause, as shown in Figure 3. <br />
-(4) Find a zonal asymmetry of poleward transport for particles in the tropical lower stratosphere ([Sun et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105371)). <br />
+1. Quantify particles’ number, flux, lifetime, and tropospheric sinks in different stratospheric regions (i.e., tropical, mid-lat, polar regions), as shown in Figure 2. ([Sun et al., 2024](https://www.nature.com/articles/s41612-024-00664-8)). <br />
+2. Evaluate particles’ tropospheric sinks that are co-located with tropopause folding mainly beneath the mid-lat jet stream. <br />
+3. Explore the mechanisms of how QBO modulates the stratosphere-to-troposphere particle flux (ST-flux) crossing the tropopause, as shown in Figure 3. <br />
+4. Find a zonal asymmetry of poleward transport for particles in the tropical lower stratosphere ([Sun et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105371)). <br />
 <br />
 
 <p align="left">
@@ -69,7 +69,6 @@ Climate engineering (geoengineering).
 ------
 
 We design injection strategies by selecting combinations of injection latitudes and longitudes to increase particle lifetime subject to various constraints. For each altitude, we examine uniform injection in the tropics as a reference along with three other improved injection strategies. Instead of using fixed injection locations in the whole injection period, our three improved injection strategies (i.e., Latitude, Lat-lon, and Balanced) have injection locations that vary with season to maximize particle lifetime. The four injection strategies are: <br />
-<br />
 1. Uniform: particles are uniformly injected in the tropical area using all injection points (Nx × Ny). <br />
 2. Latitude: particles are injected uniformly across all longitudes (Nx) at one selected latitude for each season to maximize particle lifetime. <br />
 3. Lat-lon: particles are injected at a single point for each season to maximize particle lifetime. <br />
