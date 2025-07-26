@@ -44,12 +44,24 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux (ST-flux). <br />
 
 
-Aerosol-cloud interactions (ACI) in ***large eddy simulations (LES)***.
+Aerosol-Cloud Interactions (ACI) in Marine Boudary Layer.
 ------
+
+Because aerosol-cloud interactions are the most uncertain climate forcing in the Earth system, it is important to better understand the aerosol-cloud interactions, especially how they will change with climate. We carries out ***large eddy simulations (LES)*** of a 3-day stratocumulus-to-cumulus transition (SCT) along an airmass-following trajectory in the Northeast Pacific Ocean.  <br />
+
+By perturbing aerosol concentrations within the marine boundary layer (MBL) in the SCT simulations, we evaluate aerosol-cloud interactions in both the present day as well as in a double-CO2 climate (Figure 4). We find that aerosol-induced cloud changes, including first (Twomey effect) and second adjustments of cloud fraction and liquid water path (LWP) indirect effects of aerosols, tend to be inhibited in a double-CO2 climate (Figure 5). The LWP adjustment is more sensitive to global warming than the Twomey effect. By decomposing the aerosol-induced cloud radiative effect change (ΔCRE), we find that the aerosol-induced cloud fraction change (ΔCF) shows the largest contribution to ΔCRE in our simulations. Aerosol-induced droplet number concentration change (ΔNc) shows a cooling effect, while the LWP change shows a warming effect that is consistent with aerosol-induced cloud thinning.  <br />
+
+Overall, the cooling effect associated with increased aerosol concentrations will weaken in a double-CO2 climate. Our results can also help to understand and predict the cooling potential of marine cloud brightening (MCB) in a changing climate.  <br />
+
 <p align="left">
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3cede2e-4d06-46dd-9c7d-f590cac5178e">
 </p>
 Figure 4. Responses of stratocumulus clouds to different aerosol concentrations (clean vs. polluted) in the Northeast Pacific marine boundary layer in the present day (CTL) and in a warmer future (2xCO2, P2CO2). Aerosol-cloud interactions can be represented by the differences between clean vs. polluted cases. <br />
+
+<p align="left">
+<img width="1055" height="888" alt="image" src="https://github.com/user-attachments/assets/e3b96af1-4733-4aab-83a2-3819d3724149" />
+</p>
+Figure 5. Aerosol-cloud interactions, including the first (Twomey effect) and second (LWP adjustment) indirect effects of aerosols.
 
 
 Climate engineering (geoengineering).
@@ -57,7 +69,7 @@ Climate engineering (geoengineering).
 <p align="left">
 <img width="800" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/c3edf598-db13-4259-9845-254a35c7668e">
 </p>
-Figure 5. Mean stratospheric lifetime of particles injected at different injection altitudes for four different injection strategies. The table in the orange box shows three metrics that evaluate particle lifetime from the four injection strategies at 20 km. <br />
+Figure 6. Mean stratospheric lifetime of particles injected at different injection altitudes for four different injection strategies. The table in the orange box shows three metrics that evaluate particle lifetime from the four injection strategies at 20 km. <br />
 
 
 
