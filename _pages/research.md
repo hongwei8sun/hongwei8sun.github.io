@@ -53,6 +53,7 @@ Because aerosol-cloud interactions are the most uncertain climate forcing in the
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3cede2e-4d06-46dd-9c7d-f590cac5178e">
 </p>
 Figure 4. Responses of stratocumulus clouds to different aerosol concentrations (clean vs. polluted) in the Northeast Pacific marine boundary layer in the present day (CTL) and in a warmer future (2xCO2, P2CO2). Aerosol-cloud interactions can be represented by the differences between clean vs. polluted cases. <br />
+<br />
 
 We find that aerosol-induced cloud changes, including first (Twomey effect) and second adjustments of cloud fraction and liquid water path (LWP) indirect effects of aerosols, tend to be inhibited in a double-CO2 climate (Figure 5). The LWP adjustment is more sensitive to global warming than the Twomey effect. By decomposing the aerosol-induced cloud radiative effect change (ΔCRE), we find that the aerosol-induced cloud fraction change (ΔCF) shows the largest contribution to ΔCRE in our simulations. Aerosol-induced droplet number concentration change (ΔNc) shows a cooling effect, while the LWP change shows a warming effect that is consistent with aerosol-induced cloud thinning. <br />
 
