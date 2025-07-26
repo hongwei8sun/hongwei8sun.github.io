@@ -18,7 +18,7 @@ I created a Lagrangian plume model and coupled the new ***Lagrangian plume model
 <p align="left">
 <img width="1433" alt="image" src="https://github.com/user-attachments/assets/83d32009-3c96-40b6-85a6-2f40540722c7" />
 </p>
-Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Eulerian model with an embedded Lagrangian plume model).  <br />
+<span style='color: blue'> Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Eulerian model with an embedded Lagrangian plume model).  </span>
 <br />
 
 
