@@ -69,10 +69,12 @@ Climate engineering (geoengineering).
 ------
 
 We design injection strategies by selecting combinations of injection latitudes and longitudes to increase particle lifetime subject to various constraints. For each altitude, we examine uniform injection in the tropics as a reference along with three other improved injection strategies. Instead of using fixed injection locations in the whole injection period, our three improved injection strategies (i.e., Latitude, Lat-lon, and Balanced) have injection locations that vary with season to maximize particle lifetime. The four injection strategies are: <br />
+<br />
 (1) Uniform: particles are uniformly injected in the tropical area using all injection points (Nx × Ny). <br />
 (2) Latitude: particles are injected uniformly across all longitudes (Nx) at one selected latitude for each season to maximize particle lifetime. <br />
 (3) Lat-lon: particles are injected at a single point for each season to maximize particle lifetime. <br />
 (4) Balanced: particles are injected from one or several points each season, chosen to maximize particle lifetime subject to an interhemispheric balance constraint (i.e., the difference of particle lifetime between the NH and SH should be less than 1%). This is achieved by a Linear Programming (LP) solver described in ([Sun et al., 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL105371)).
+<br />
 
 <p align="left">
 <img width="800" alt="image" src="https://github.com/hongwei8sun/hongwei8sun.github.io/assets/45275555/c3edf598-db13-4259-9845-254a35c7668e">
