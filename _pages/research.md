@@ -62,7 +62,7 @@ Overall, the cooling effect associated with increased aerosol concentrations wil
 <p align="left">
 <img width="1055" height="888" alt="image" src="https://github.com/user-attachments/assets/e3b96af1-4733-4aab-83a2-3819d3724149" />
 </p>
-Figure 5. Aerosol-cloud interactions, including the first (Twomey effect) and second (LWP adjustment) indirect effects of aerosols.
+*Figure 5. Aerosol-cloud interactions, including the first (Twomey effect) and second (LWP adjustment) indirect effects of aerosols.* <br />
 
 
 Climate engineering (geoengineering).
