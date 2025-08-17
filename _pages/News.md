@@ -5,6 +5,12 @@ permalink: /News/
 author_profile: true
 ---
 
+## 08/11/2025
+Call for abstracts at AMS2026!
+I will work with Dr. Yu Gu (UCLA), Dr. Shaocheng Xie (LLNL), and Dr. Geeta Persad (UT Austin) to organize the Session: Aerosol-Earth System Interactions from Regional to Global Scale (18th Symposium on Aerosol-Cloud-Climate Interactions). <br />
+Consider submitting an abstract to our [session](https://annual.ametsoc.org/2026/program-events/conferences-and-symposia/18th-symposium-on-aerosol-cloud-climate-interactions/)! <br />
+
+
 ## 07/02/2025
 Check our new studies on aerosol-cloud interactions in arXiv [pre-print](https://arxiv.org/abs/2507.01319)! <br />
 **Title:** *Using Large Eddy Simulations to Study How Climate Change Influences Aerosol-Cloud Interactions.* <br />
