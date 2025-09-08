@@ -9,7 +9,7 @@ I am focusing on developing and applying different types of numerical models to 
 
 1. Large-scale stratospheric transport, dynamics, and aerosol processes.  <br />
 2. Small-scale aerosol–cloud interactions within the marine boundary layer.  <br />
-3. The application of (1) and (2) to climate intervention (geoengineering).  <br />
+3. Climate intervention (geoengineering) and mitigation (renewable energies & environement).  <br />
 
 Developing a coupled multiscale model.
 ------
