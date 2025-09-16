@@ -9,6 +9,7 @@ author_profile: true
 
 **07/2025:** <br />
 [Postdoctoral Position in Stratospheric Transport, Dynamics, and Aerosols at the University of Hawaii](https://hongwei8sun.github.io/files/Postdoc_SunGroup_UHawaii_2025_v3.pdf) <br />
+*Update: The offer has been sent.*
 
 
 **04/2025:** <br />
