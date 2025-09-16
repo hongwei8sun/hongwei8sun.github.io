@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## 09/15/2025
-We received [new funds](https://www.simonsfoundation.org/people/hongwei-sun/)!
-I am honored to receive funding from the Simons Foundation for the project: "Constraining Aerosol Size Distribution in the Aircraft Wake for Quantitative Stratospheric Aerosol Injection".
+We received [new funds](https://www.simonsfoundation.org/people/hongwei-sun/)! <br />
+I am honored to receive funding from the Simons Foundation for the project: "Constraining Aerosol Size Distribution in the Aircraft Wake for Quantitative Stratospheric Aerosol Injection". <br />
 
 ## 08/11/2025
 **Call for abstracts at AMS2026:** <br />
