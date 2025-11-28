@@ -5,6 +5,12 @@ permalink: /News/
 author_profile: true
 ---
 
+## 10/09/2025
+I gave a talk in the Virtual Workshop Series on Stratospheric Aerosol Injection (SAI) organized by the World Climate Research Program (WCRP).<br />
+**Title:** *Developing a Plume-in-Grid Model for Plume Evolution in the Stratosphere.* <br />
+
+
+
 ## 09/15/2025
 We received [new funds](https://www.simonsfoundation.org/people/hongwei-sun/)! <br />
 
