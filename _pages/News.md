@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 10/09/2025
-I gave a talk in the Virtual Workshop Series on Stratospheric Aerosol Injection (SAI) organized by the World Climate Research Program (WCRP).<br />
+I gave a talk in the Virtual Workshop Series on Stratospheric Aerosol Injection (SAI) organized by the World Climate Research Program (WCRP). Recording is available [here](https://www.wcrp-climate.org/ci-workshop-series-sai). <br />
 **Title:** *Developing a Plume-in-Grid Model for Plume Evolution in the Stratosphere.* <br />
 
 
