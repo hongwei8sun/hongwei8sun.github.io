@@ -24,7 +24,7 @@ I am honored to receive funding from the Simons Foundation for the project: "Con
 **Call for abstracts at AMS2026:** <br />
 I will work with Dr. Yu Gu (UCLA), Dr. Shaocheng Xie (LLNL), and Dr. Geeta Persad (UT Austin) to organize the Session: <br />
 *Aerosol-Earth System Interactions from Regional to Global Scale (18th Symposium on Aerosol-Cloud-Climate Interactions).* <br />
-Consider submitting an abstract to our [session](https://annual.ametsoc.org/2026/program-events/conferences-and-symposia/18th-symposium-on-aerosol-cloud-climate-interactions/)! <br />
+Consider submitting an abstract to our [session](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Session/72956)! <br />
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/4a030970-ac8e-43dd-bc88-0f1cd7f5c429" />
   <br />
 
