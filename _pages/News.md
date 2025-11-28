@@ -5,14 +5,14 @@ permalink: /News/
 author_profile: true
 ---
 
-##
+## 11/15/2026
 Welcome new group member! <br />
 [Dr. Han-Chang Ko](https://orcid.org/0000-0002-9243-9998) will join our group as a postdoc in Jan 2026.
+
 
 ## 10/09/2025
 I gave a talk in the Virtual Workshop Series on Stratospheric Aerosol Injection (SAI) organized by the World Climate Research Program (WCRP). Recording is available [here](https://www.wcrp-climate.org/ci-workshop-series-sai). <br />
 **Title:** *Developing a Plume-in-Grid Model for Plume Evolution in the Stratosphere.* <br />
-
 
 
 ## 09/15/2025
