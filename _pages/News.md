@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ##
-Welcome new group member!
+Welcome new group member! <br />
 [Dr. Han-Chang Ko](https://orcid.org/0000-0002-9243-9998) will join our group as a postdoc in Jan 2026.
 
 ## 10/09/2025
