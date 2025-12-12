@@ -9,7 +9,7 @@ author_profile: true
 I will be attending AGU2025 next week to: <br />
 (1) give one oral presentation and one poster presentation. <br />
 (2) serve as a convener for three oral sessions and two poster sessions. <br />
-Check out this [link](https://agu.confex.com/agu/agu25/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=1&searchterm=Hongwei) for more details! Let's catch up if you also will be there! <br />
+Check out this [link](https://agu.confex.com/agu/agu25/meetingapp.cgi/Search/0?sort=Relevance&size=10&page=1&searchterm=Hongwei) for more details. Let's catch up if you also will be there! <br />
 
 
 ## 11/15/2025
