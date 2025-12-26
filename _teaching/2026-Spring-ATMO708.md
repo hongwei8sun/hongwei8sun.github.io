@@ -2,7 +2,7 @@
 title: "ATMO 708 General Circulation of the Atmosphere"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2026-ATMO708-Course
+permalink: /teaching/2026-Spring-ATMO708
 venue: "University of Hawaii at Manoa"
 date: Spring, 2026
 location: "Honolulu, USA"
