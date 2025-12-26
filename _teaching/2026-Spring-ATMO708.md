@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2026-Spring-ATMO708
 venue: "University of Hawaii at Manoa"
-date: Spring 2026
+date: 2026-01-12
 location: "Honolulu, USA"
 ---
 
