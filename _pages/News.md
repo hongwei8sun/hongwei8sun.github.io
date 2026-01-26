@@ -5,6 +5,12 @@ permalink: /News/
 author_profile: true
 ---
 
+## 01/25/2026
+I will be attending AGU2025 next week to:
+(1) give two oral presentations and one poster presentation.
+(2) serve as a convener for one oral and one poster sessions.
+Check out this [llink](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Person/315541) for more details. Let’s catch up if you also will be there!
+
 ## 12/10/2025
 I will be attending AGU2025 next week to: <br />
 (1) give one oral presentation and one poster presentation. <br />
