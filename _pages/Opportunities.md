@@ -7,6 +7,10 @@ author_profile: true
 
 <span style='color: blue'> We are actively seeking undergraduate and graduate students (Master’s and PhD), postdoctoral researchers, and visiting scholars to join our group! We aim to align research projects with your interests and long-term career goals. If you’re interested in our work, please feel free to reach out via email at: *hongwei8@hawaii.edu*. </span>
 
+**02/2026:** <br />
+I am pleased to announce a new postdoctoral position in my group focusing on small-scale aerosol-cloud interactions. Further details will be released soon (in February). Stay tuned!
+
+
 **07/2025:** <br />
 [Postdoctoral Position in Stratospheric Transport, Dynamics, and Aerosols at the University of Hawaii](https://hongwei8sun.github.io/files/Postdoc_SunGroup_UHawaii_2025_v3.pdf) <br />
 *Update: The offer has been sent.*
