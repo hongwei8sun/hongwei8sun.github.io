@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## 02/15/2025
-Prof. [Qiang Fu](https://atmos.uw.edu/~qfu/) will visit our group at UHawaii February 17-18, 2026!
+Prof. [Qiang Fu](https://atmos.uw.edu/~qfu/) will visit our group at UHawaii on February 17-18, 2026!
+
 
 ## 01/25/2026
 I will be attending AMS2026 next week to: <br />
