@@ -9,18 +9,18 @@ author_profile: true
 Check our [new paper](https://doi.org/10.1038/s41612-026-01357-0) in npj climate and atmospheric science! <br />
 In this study, we use large-eddy simulations to investigate how global warming affects aerosol-cloud interactions, focusing on a stratocumulus-to-cumulus transition case in the Northeast Pacific. <br />
 <br />
-To continue the study on aerosol-cloud interactions, our group is seeking for a new postdoc to join us. See [Opportunities](https://hongwei8sun.github.io/Opportunities/) for more details!
+To continue the studies on aerosol-cloud interactions, our group is seeking for a new postdoc to join us. See [Opportunities](https://hongwei8sun.github.io/Opportunities/) for more details! <br />
 
 
 ## 02/15/2025
-We’re excited to welcome Prof. [Qiang Fu](https://atmos.uw.edu/~qfu/) for a visit to our group at the UHawaii on February 17–18, 2026!
+We’re excited to welcome Prof. [Qiang Fu](https://atmos.uw.edu/~qfu/) for a visit to our group at the UHawaii on February 17–18, 2026! <br />
 
 
 ## 01/25/2026
 I will be attending AMS2026 next week to: <br />
 (1) give two oral presentations and one poster presentation. <br />
 (2) serve as a convener for one oral and one poster sessions. <br />
-Check out this [link](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Person/315541) for more details. Let’s catch up if you also will be there!
+Check out this [link](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Person/315541) for more details. Let’s catch up if you also will be there! <br />
 
 
 ## 12/10/2025
