@@ -8,6 +8,7 @@ author_profile: true
 ## 03/01/2026
 Check our [new paper](https://doi.org/10.1038/s41612-026-01357-0) in npj climate and atmospheric science! <br />
 In this study, we use large-eddy simulations to investigate how global warming affects aerosol-cloud interactions, focusing on a stratocumulus-to-cumulus transition case in the Northeast Pacific. <br />
+<br />
 To continue the study on aerosol-cloud interactions, our group is seeking for a new postdoc to join us. See [Opportunities](https://hongwei8sun.github.io/Opportunities/) for more details!
 
 
