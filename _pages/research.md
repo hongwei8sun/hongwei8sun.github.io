@@ -47,7 +47,7 @@ Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux 
 Aerosol-Cloud Interactions (ACI) in Marine Boudary Layer.
 ------
 
-Because aerosol-cloud interactions are the most uncertain climate forcing in the Earth system, it is important to better understand the aerosol-cloud interactions, especially how they will change with climate. We carries out ***large eddy simulations (LES)*** of a 3-day stratocumulus-to-cumulus transition (SCT) along an airmass-following trajectory in the Northeast Pacific Ocean. By perturbing aerosol concentrations within the marine boundary layer (MBL) in the SCT simulations ([Sun et al., 2026](https://doi.org/10.1038/s41612-026-01357-0)), we evaluate aerosol-cloud interactions in both the present day as well as in a double-CO2 climate (Figure 4).  <br />
+Because aerosol-cloud interactions are the most uncertain climate forcing in the Earth system, it is important to better understand the aerosol-cloud interactions, especially how they will change with climate. We carries out ***large eddy simulations (LES)*** of a 3-day stratocumulus-to-cumulus transition (SCT) along an airmass-following trajectory in the Northeast Pacific Ocean ([Sun et al., 2026](https://doi.org/10.1038/s41612-026-01357-0)). By perturbing aerosol concentrations within the marine boundary layer (MBL) in the SCT simulations, we evaluate aerosol-cloud interactions in both the present day as well as in a double-CO2 climate (Figure 4).  <br />
 
 <p align="left">
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e3cede2e-4d06-46dd-9c7d-f590cac5178e">
