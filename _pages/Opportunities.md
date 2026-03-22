@@ -12,10 +12,11 @@ author_profile: true
 
 **02/2026:** <br />
 [Undergraduate 2026 Summer Research Scholarship in Atmospheric Sciences at the University of Hawaii](https://hongwei8sun.github.io/files/2026_Undergraduate_Summer_Internship.pdf) <br />
+Note: This oppotunity is limited to undergraduate students at the University of Hawaii. <br />
 
 **07/2025:** <br />
 [Postdoctoral Position in Stratospheric Transport, Dynamics, and Aerosols at the University of Hawaii](https://hongwei8sun.github.io/files/Postdoc_SunGroup_UHawaii_2025_v3.pdf) <br />
-*Update: The offer has been sent.*
+*Update: This position has been filled.*
 
 
 **04/2025:** <br />
