@@ -6,12 +6,8 @@ author_profile: true
 ---
 
 ## 04/01/2026
-Check our [new paper preprint]([https://doi.org/10.1038/s41612-026-01357-0](https://arxiv.org/abs/2604.04040)) led by my postdoc Hanchang Ko: <br />
-
-Spatial and temporal distribution of stratospheric turbulence from global high-resolution radiosonde data. <br />
-
-<br />
-
+Check our [new preprint]([https://doi.org/10.1038/s41612-026-01357-0](https://arxiv.org/abs/2604.04040)) led by my postdoc Hanchang Ko: <br />
+**Title:** *Spatial and temporal distribution of stratospheric turbulence from global high-resolution radiosonde data.* <br />
 
 
 ## 03/01/2026
