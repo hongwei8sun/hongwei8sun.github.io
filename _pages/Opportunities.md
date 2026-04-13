@@ -9,6 +9,7 @@ author_profile: true
 
 **03/2026:** <br />
 [Postdoctoral Position in Small-Scale Aerosol-Cloud Interactions at the University of Hawaii](https://hongwei8sun.github.io/files/Postdoc_SunGroup_UHawaii_2026_v2.pdf) <br />
+Last update: The position is still open, and the review process will begin soon. <br />
 
 **02/2026:** <br />
 [Undergraduate 2026 Summer Research Scholarship in Atmospheric Sciences at the University of Hawaii](https://hongwei8sun.github.io/files/2026_Undergraduate_Summer_Internship.pdf) <br />
