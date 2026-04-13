@@ -5,6 +5,15 @@ permalink: /News/
 author_profile: true
 ---
 
+## 04/01/2026
+Check our [new paper preprint]([https://doi.org/10.1038/s41612-026-01357-0](https://arxiv.org/abs/2604.04040)) led by my postdoc Hanchang Ko: <br />
+
+Spatial and temporal distribution of stratospheric turbulence from global high-resolution radiosonde data. <br />
+
+<br />
+
+
+
 ## 03/01/2026
 Check our [new paper](https://doi.org/10.1038/s41612-026-01357-0) in npj climate and atmospheric science: <br />
 In this study, we use large-eddy simulations to investigate how global warming affects aerosol-cloud interactions, focusing on a stratocumulus-to-cumulus transition case in the Northeast Pacific. <br />
