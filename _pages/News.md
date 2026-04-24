@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 04/05/2026
-Check our [new preprint](https://arxiv.org/abs/2604.04040) led by my postdoc Hanchang Ko: <br />
+Check our [new preprint](https://arxiv.org/abs/2604.04040) led by Hanchang Ko (a postdoc in our group): <br />
 **Title:** *Spatial and temporal distribution of stratospheric turbulence from global high-resolution radiosonde data.* <br />
 
 
