@@ -5,6 +5,11 @@ permalink: /News/
 author_profile: true
 ---
 
+
+## 05/01/2026
+We’re excited to welcome Prof. [Jian Wang](https://engineering.washu.edu/faculty/Jian-Wang.html) to visit the Sun Group at the UHawaii on May 4-5, 2026! <br />
+
+
 ## 04/05/2026
 Check our [new preprint](https://arxiv.org/abs/2604.04040) led by Hanchang Ko (a postdoc in our group): <br />
 **Title:** *Spatial and temporal distribution of stratospheric turbulence from global high-resolution radiosonde data.* <br />
@@ -17,7 +22,7 @@ In this study, we use large-eddy simulations to investigate how global warming a
 To continue the studies on aerosol-cloud interactions, our group is seeking for a new postdoc to join us. See [Opportunities](https://hongwei8sun.github.io/Opportunities/) for more details! <br />
 
 
-## 02/15/2025
+## 02/15/2026
 We’re excited to welcome Prof. [Qiang Fu](https://atmos.uw.edu/~qfu/) for a visit to our group at the UHawaii on February 17–18, 2026! <br />
 
 
