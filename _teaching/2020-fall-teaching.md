@@ -1,5 +1,5 @@
 ---
-title: "TF: EPS132-Introduction to Meteorology and Climate"
+title: "Teaching Fellow: EPS132 Introduction to Meteorology and Climate"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching
