@@ -8,7 +8,7 @@ author_profile: true
 <span style='color: blue'> We are actively seeking undergraduate and graduate students (Master’s and PhD), postdoctoral researchers, and visiting scholars to join our group! We aim to align research projects with your interests and long-term career goals. If you’re interested in our work, please feel free to reach out via email at: *hongwei8@hawaii.edu*. </span>
 
 **06/2026:** <br />
-There may be a new postdoc opening on Stratospheric Aerosols Modeling, stay tuned.
+There may be a new postdoc opening in July on Stratospheric Aerosols Modeling, stay tuned.
 
 
 **03/2026:** <br />
