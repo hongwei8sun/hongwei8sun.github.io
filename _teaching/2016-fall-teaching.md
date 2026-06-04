@@ -1,5 +1,5 @@
 ---
-title: "TF (Teaching Fellow): Calculus I"
+title: "Teaching Fellow: Calculus I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-fall-teaching
