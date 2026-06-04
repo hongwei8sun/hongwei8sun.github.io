@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 05/06/2026
-It was a pleasure to serve as a mentor to undergraduate student Sakura Takahashi for her graduation project. You can view her presentation poster [here](https://github.com/hongwei8sun/hongwei8sun.github.io/blob/master/files/2026.05_Simulating_Particle_Transport_and_Diffusion.pdf). <br />
+It was a pleasure to serve as a mentor to undergraduate student Sakura Takahashi for her graduation project. You can view her presentation poster [here](https://hongwei8sun.github.io/files/2026.05_Simulating_Particle_Transport_and_Diffusion.pdf). <br />
 Great job, Sakura, and congratulations on your graduation! 🎓👏 <br />
 
 
