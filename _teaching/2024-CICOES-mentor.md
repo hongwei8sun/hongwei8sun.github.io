@@ -1,5 +1,5 @@
 ---
-title: "Mentor in the CICOES undergraduate intern program at University of Washington"
+title: "Mentor: CICOES undergraduate intern program at University of Washington"
 collection: teaching
 type: "Project: Using Data-Driven Methods to Estimate Cloud Radiative Effects."
 permalink: /teaching/2024-CICOES-mentor
