@@ -11,7 +11,7 @@ location: "Honolulu, USA"
 Instructor: Dr. Hongwei Sun
 <br/>
 
-Syllabus can be found [here](https://hongwei8sun.github.io/files/SYLLABUS.ATMO708.2026Spring.pdf).
+Syllabus can be found [here](https://hongwei8sun.github.io/files/ATMO303_Syllabus.pdf).
 
 Course Description:
 This course is a quantitative introduction to the fundamentals for modern
