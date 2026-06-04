@@ -1,7 +1,7 @@
 ---
-title: "Teaching Fellow: Calculus I"
+title: "2016 Fall Teaching: Calculus I"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching fellow in a Undergraduate course"
 permalink: /teaching/2016-fall-teaching
 venue: "Tsinghua University"
 date: 2016-09-01
