@@ -1,5 +1,5 @@
 ---
-title: "Teaching: ATMO 708 General Circulation of the Atmosphere"
+title: "2026 Spring Teaching: ATMO 708 General Circulation of the Atmosphere"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2026-Spring-ATMO708
