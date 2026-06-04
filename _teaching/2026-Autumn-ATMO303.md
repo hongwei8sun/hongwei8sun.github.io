@@ -8,7 +8,7 @@ date: 2026-06-30
 location: "Honolulu, USA"
 ---
 
-Instructor: Dr. Hongwei Sun (Guest Lecturer: Dr. Fei-Fei Jin)
+Instructor: Dr. Hongwei Sun
 <br/>
 
 Syllabus can be found [here](https://hongwei8sun.github.io/files/SYLLABUS.ATMO708.2026Spring.pdf).
