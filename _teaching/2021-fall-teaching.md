@@ -1,5 +1,5 @@
 ---
-title: "TF: EPS137/IGA416-Energy within Environmental Constraints"
+title: "Teaching Fellow: EPS137/IGA416 Energy within Environmental Constraints"
 collection: teaching
 type: "Undergraduate/graduate course"
 permalink: /teaching/2021-fall-teaching
