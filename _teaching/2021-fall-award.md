@@ -1,5 +1,5 @@
 ---
-title: "Certificate of distinction in teaching"
+title: "2021 Fall: Certificate of distinction in teaching"
 collection: teaching
 type: "Award"
 permalink: /teaching/2021-fall-award
