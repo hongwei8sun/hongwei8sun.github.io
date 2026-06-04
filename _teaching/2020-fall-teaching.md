@@ -1,7 +1,7 @@
 ---
-title: "Teaching Fellow: EPS132 Introduction to Meteorology and Climate"
+title: "2020 Fall Teaching: EPS132 Introduction to Meteorology and Climate"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching fellow in a undergraduate course"
 permalink: /teaching/2020-fall-teaching
 venue: "Harvard University"
 date: 2020-09-01
