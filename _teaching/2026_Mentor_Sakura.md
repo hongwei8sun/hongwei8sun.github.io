@@ -11,6 +11,6 @@ location: "Honolulu, USA"
 Student: Sakura Takahashi, University of Hawaii at Manoa.
 <br/>
 
-<img width="1182" alt="image" src="https://github.com/user-attachments/assets/abe6d9a0-e6fd-4760-bb81-041d82baa550">
+<img width="1769" height="1060" alt="image" src="https://github.com/user-attachments/assets/8823a41c-0035-4959-bf30-7151be2d9cde" />
 
 <br/>
