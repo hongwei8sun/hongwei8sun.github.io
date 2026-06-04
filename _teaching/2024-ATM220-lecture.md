@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecturer: ATM S 220 Exploring Atmospheric and Climate Science"
+title: "2024 Fall Guest Lecturer: ATM S 220 Exploring Atmospheric and Climate Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-ATM220-lecture
