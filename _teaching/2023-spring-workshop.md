@@ -1,5 +1,5 @@
 ---
-title: "Invited speaker: Harvard Spring Teaching Conference Roundtable - Teaching as an International Scholar"
+title: "2023 Invited speaker: Harvard Spring Teaching Conference Roundtable - Teaching as an International Scholar"
 collection: teaching
 type: "Roundtable discussion"
 permalink: /teaching/2023-spring-workshop
