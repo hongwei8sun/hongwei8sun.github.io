@@ -1,5 +1,5 @@
 ---
-title: "2026 Autumn Teaching: ATMO 303 Introduction to Atmospheric Dynamics"
+title: "2026 Fall Teaching: ATMO 303 Introduction to Atmospheric Dynamics"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2026-Spring-ATMO303
