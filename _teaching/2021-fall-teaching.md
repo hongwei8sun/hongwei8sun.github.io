@@ -1,7 +1,7 @@
 ---
-title: "2021 Fall Teaching: EPS137/IGA416 Energy within Environmental Constraints"
+title: "2021 Fall Teaching Fellow: EPS137/IGA416 Energy within Environmental Constraints"
 collection: teaching
-type: "Teaching fellow in a undergraduate/graduate course"
+type: "Undergraduate/graduate course"
 permalink: /teaching/2021-fall-teaching
 venue: "Harvard University"
 date: 2021-09-01
