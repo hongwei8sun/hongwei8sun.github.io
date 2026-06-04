@@ -1,5 +1,5 @@
 ---
-title: "Mentor: undergraduate graduation project at University of Hawaii"
+title: "2026 Spring Mentor: undergraduate graduation project at University of Hawaii"
 collection: teaching
 type: "Project: Simulating Particle Transport and Diffusion."
 permalink: /teaching/2026_Mentor_Sakura
