@@ -5,6 +5,12 @@ permalink: /News/
 author_profile: true
 ---
 
+## 07/01/2026
+**Call for abstracts at AGU2026:** <br />
+<img width="926" height="508" alt="image" src="https://github.com/user-attachments/assets/76e2777e-b5a1-489f-8e54-08ba5c667120" />
+More information can be found [here](https://agu.confex.com/agu/agu26/prelim.cgi/Person/830034) on the AGU2026 conference website. <br />
+
+
 ## 05/06/2026
 It was a pleasure to serve as a mentor to undergraduate student Sakura Takahashi for her graduation project. You can view her presentation poster [here](https://hongwei8sun.github.io/files/2026.05_Simulating_Particle_Transport_and_Diffusion.pdf). <br />
 Great job, Sakura, and congratulations on your graduation! 🎓👏 <br />
