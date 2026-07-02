@@ -8,7 +8,7 @@ author_profile: true
 ## 07/01/2026
 **Call for abstracts at AGU2026:** <br />
 More information can be found [here](https://agu.confex.com/agu/agu26/prelim.cgi/Person/830034) on the AGU2026 conference website. <br />
-<img width="617" height="339" alt="image" src="https://github.com/user-attachments/assets/76e2777e-b5a1-489f-8e54-08ba5c667120" />
+<img width="772" height="423" alt="image" src="https://github.com/user-attachments/assets/76e2777e-b5a1-489f-8e54-08ba5c667120" />
 
 
 ## 06/20/2026
