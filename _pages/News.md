@@ -13,9 +13,9 @@ More information can be found [here](https://agu.confex.com/agu/agu26/prelim.cgi
 
 ## 06/20/2026
 **Call for abstracts at AMS2027:** <br />
-More information can be found [here](https://annual.ametsoc.org/2027/program-events/conferences-and-symposia/19th-symposium-on-aerosol-cloud-climate-interactions/) on the AMS2027 conference website. <br />
 <br />
 <img width="802" height="189" alt="image" src="https://github.com/user-attachments/assets/33e482d5-a523-47e4-903b-c4bd88da94fc" />
+More information can be found [here](https://annual.ametsoc.org/2027/program-events/conferences-and-symposia/19th-symposium-on-aerosol-cloud-climate-interactions/) on the AMS2027 conference website. <br />
 
 
 ## 05/06/2026
