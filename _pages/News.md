@@ -7,7 +7,7 @@ author_profile: true
 
 ## 07/20/2025
 Welcome new group member! <br />
-[Dr. Bingqing Zhang](https://scholar.google.com/citations?user=X2L8KkMAAAAJ&hl=en) will join our group as a postdoc in Jan 2026. Bingqing's research will focus on the development of a [plume-in-grid model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816). <br />
+[Dr. Bingqing Zhang](https://scholar.google.com/citations?user=X2L8KkMAAAAJ&hl=en) joined our group as a postdoc. Bingqing's research will focus on the development of a [plume-in-grid model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816). <br />
 
 
 ## 07/01/2026
