@@ -5,6 +5,11 @@ permalink: /News/
 author_profile: true
 ---
 
+## 07/20/2025
+Welcome new group member! <br />
+[Dr. Bingqing Zhang](https://scholar.google.com/citations?user=X2L8KkMAAAAJ&hl=en) will join our group as a postdoc in Jan 2026. Bingqing's research will focus on the development of a [plume-in-grid model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816). <br />
+
+
 ## 07/01/2026
 **Call for abstracts at AGU2026:** <br />
 More information can be found [here](https://agu.confex.com/agu/agu26/prelim.cgi/Person/830034) on the AGU2026 conference website. <br />
@@ -59,7 +64,7 @@ Check out this [link](https://agu.confex.com/agu/agu25/meetingapp.cgi/Search/0?s
 
 ## 11/15/2025
 Welcome new group member! <br />
-[Dr. Han-Chang Ko](https://orcid.org/0000-0002-9243-9998) will join our group as a postdoc in Jan 2026. <br />
+[Dr. Han-Chang Ko](https://orcid.org/0000-0002-9243-9998) will join our group as a postdoc in Jan 2026. Hanchang will study stratopsheric turbulence. <br />
 
 
 ## 10/09/2025
