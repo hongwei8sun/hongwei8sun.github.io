@@ -13,6 +13,9 @@ main:
   - title: "Opportunities"
     url: /Opportunities/ 
     
+  - title: "Resources"
+    url: /Resources/ 
+    
   - title: "CV"
     url: https://hongwei8sun.github.io/files/2026_04_CV_Hongwei_Sun.pdf
 
