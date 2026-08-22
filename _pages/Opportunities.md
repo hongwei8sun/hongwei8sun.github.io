@@ -7,8 +7,9 @@ author_profile: true
 
 <span style='color: blue'> We are actively seeking undergraduate and graduate students (Master’s and PhD), postdoctoral researchers, and visiting scholars to join our group! We aim to align research projects with your interests and long-term career goals. If you’re interested in our work, please feel free to reach out via email at: *hongwei8@hawaii.edu*. </span>
 
-**06/2026:** <br />
-There may be a new postdoc opening in July on Stratospheric Aerosols Modeling, stay tuned.
+**08/2026:** <br />
+[Postdoctoral Position in Plume-in-Grid Modeling at UChicago](https://hongwei8sun.github.io/files/2026_08_Postdoc_WangLab_UChicago_Modeling_2026.pdf) <br />
+Note: This position is hosted by Prof. Mingyi Wang at University of Chicago. The successful candidate will collaborate with Prof. Hongwei Sun (University of Hawaii) and Prof. Jeff Pierce (Colorado State University). <br />
 
 
 **03/2026:** <br />
@@ -18,7 +19,7 @@ There may be a new postdoc opening in July on Stratospheric Aerosols Modeling, s
 
 **02/2026:** <br />
 [Undergraduate 2026 Summer Research Scholarship in Atmospheric Sciences at the University of Hawaii](https://hongwei8sun.github.io/files/2026_Undergraduate_Summer_Internship.pdf) <br />
-Note: This oppotunity is limited to undergraduate students at the University of Hawaii. <br />
+Note: This opportunity is limited to undergraduate students at the University of Hawaii. <br />
 *Update: This position has been filled.* <br />
 
 **07/2025:** <br />
