@@ -5,7 +5,11 @@ permalink: /News/
 author_profile: true
 ---
 
-## 07/20/2025
+## 09/01/2026
+**Welcome new group member!** <br />
+[Dr. Cheng-Hsiang Chang](https://scholar.google.com/citations?user=eTEGHYkAAAAJ&hl=zh-TW) has joined our group as a postdoc. He will conduct research on aerosol, clouds, and their interactions. <br />
+
+## 07/20/2026
 **Welcome new group member!** <br />
 [Dr. Bingqing Zhang](https://scholar.google.com/citations?user=X2L8KkMAAAAJ&hl=en) has joined our group as a postdoc. She will work on a model development project to integrate stratospheric chemistry and aerosol processes into a [plume-in-grid model](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816). <br />
 Dr. Zhang is jointly appointed by the University of Chicago and the University of Hawaii. Before joining our group at the University of Hawaii, she spent the first year of her postdoctoral appointment in [Prof. Mingyi Wang](https://geosci.uchicago.edu/people/mingyi-wang/)’s group at the University of Chicago. <br />
