@@ -8,7 +8,7 @@ author_profile: true
 I am focusing on developing and applying different types of numerical models to study multiscale atmospheric processes and climate science. My main research interests include:  <br />
 
 - Cloud microphysics and aerosol–cloud interactions; Marine cloud brightening (MCB).
-- dynamics and aerosol processes in the upper troposphere and lower stratosphere (UTLS); Stratospheric aerosol injection (SAI).
+- Dynamics and aerosol processes in the upper troposphere and lower stratosphere (UTLS); Stratospheric aerosol injection (SAI).
 - Climate intervention (geoengineering) and mitigation (renewable energies & environement).
 <br />
 
