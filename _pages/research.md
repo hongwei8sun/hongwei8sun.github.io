@@ -12,7 +12,7 @@ I am focusing on developing and applying different types of numerical models to 
 - Climate intervention (geoengineering) and mitigation (renewable energies & environement).
 <br />
 
-1. Developing a coupled multiscale model.
+1 Developing a coupled multiscale model.
 ------
 I created a Lagrangian plume model and coupled the new ***Lagrangian plume model*** into a ***global model*** to build a ***multiscale plume-in-grid (PiG) model*** ([Sun et al., 2022](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002816)). This coupled PiG model is able to resolve subgrid plumes (e.g., aircraft plumes), which cannot be resolved by conventional global models. <br />
 
@@ -22,7 +22,7 @@ I created a Lagrangian plume model and coupled the new ***Lagrangian plume model
 Figure 1. Schematic framework of the Plume-in-Grid (PiG) model (a global Eulerian model with an embedded Lagrangian plume model). 
 <br />
 
-Stratospheric transport, dynamics, and aerosol processes.
+2 transport, dynamics, and aerosol processes in UTLS.
 ------
 To understand how the background circulation (e.g., BDC, QBO, tropopause folding) influences particle transport in the stratosphere, I use a ***Lagrangian trajectory model*** (driven by ERA5 data) to simulate particle transport in the stratosphere based on a stratospheric aerosol injection (SAI) strategy (All particles have initial locations at tropical lower stratosphere) under present-day conditions. Based on the simulating results, I: <br />
 1. Quantify particles’ number, flux, lifetime, and tropospheric sinks in different stratospheric regions (i.e., tropical, mid-lat, polar regions), as shown in Figure 2. ([Sun et al., 2024](https://www.nature.com/articles/s41612-024-00664-8)). <br />
@@ -45,7 +45,7 @@ per year), and lifetime L (purple values with a unit of years) in or between dif
 Figure 3. Two mechanisms of how QBO influences stratosphere-to-troposphere flux (ST-flux). <br />
 
 
-Aerosol-Cloud Interactions (ACI) in Marine Boudary Layer.
+3 Aerosol-Cloud Interactions (ACI) in Marine Boudary Layer.
 ------
 
 Because aerosol-cloud interactions are the most uncertain climate forcing in the Earth system, it is important to better understand the aerosol-cloud interactions, especially how they will change with climate. We carries out ***large eddy simulations (LES)*** of a 3-day stratocumulus-to-cumulus transition (SCT) along an airmass-following trajectory in the Northeast Pacific Ocean ([Sun et al., 2026](https://doi.org/10.1038/s41612-026-01357-0)). By perturbing aerosol concentrations within the marine boundary layer (MBL) in the SCT simulations, we evaluate aerosol-cloud interactions in both the present day as well as in a double-CO2 climate (Figure 4).  <br />
@@ -66,7 +66,7 @@ Overall, the cooling effect associated with increased aerosol concentrations wil
 Figure 5. Aerosol-cloud interactions, including the first (Twomey effect) and second (LWP adjustment) indirect effects of aerosols. <br />
 
 
-Climate engineering (geoengineering).
+4 Climate engineering (geoengineering).
 ------
 
 We design injection strategies by selecting combinations of injection latitudes and longitudes to increase particle lifetime subject to various constraints. For each altitude, we examine uniform injection in the tropics as a reference along with three other improved injection strategies. Instead of using fixed injection locations in the whole injection period, our three improved injection strategies (i.e., Latitude, Lat-lon, and Balanced) have injection locations that vary with season to maximize particle lifetime. The four injection strategies are: <br />
