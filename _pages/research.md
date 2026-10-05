@@ -7,9 +7,9 @@ author_profile: true
 
 I am focusing on developing and applying different types of numerical models to study multiscale atmospheric processes and climate science. My main research interests include:  <br />
 
-1. Large-scale stratospheric transport, dynamics, and aerosol processes.  <br />
-2. Small-scale aerosol–cloud interactions within the marine boundary layer.  <br />
-3. Climate intervention (geoengineering) and mitigation (renewable energies & environement).  <br />
+- Cloud microphysics and aerosol–cloud interactions; Marine cloud brightening (MCB)  <br />
+- dynamics and aerosol processes in the upper troposphere and lower stratosphere (UTLS); Stratospheric aerosol injection (SAI).  <br />
+- Climate intervention (geoengineering) and mitigation (renewable energies & environement).  <br />
 
 Developing a coupled multiscale model.
 ------
