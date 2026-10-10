@@ -34,7 +34,7 @@ Great job, Sakura, and congratulations on your graduation! 🎓👏 <br />
 
 
 ## 05/01/2026
-We’re excited to welcome Prof. [Jian Wang](https://engineering.washu.edu/faculty/Jian-Wang.html) to visit the Sun Group at the UHawaii on May 4-5, 2026! <br />
+We’re excited to welcome Prof. [Jian Wang](https://engineering.washu.edu/faculty/Jian-Wang.html) (Washington University in Saint Louis) to visit the Sun Group at the UHawaii on May 4-5, 2026! <br />
 
 
 ## 04/05/2026
@@ -50,7 +50,7 @@ To continue the studies on aerosol-cloud interactions, our group is seeking for 
 
 
 ## 02/15/2026
-We’re excited to welcome Prof. [Qiang Fu](https://atmos.uw.edu/~qfu/) for a visit to our group at the UHawaii on February 17–18, 2026! <br />
+We’re excited to welcome Prof. [Qiang Fu](https://atmos.uw.edu/~qfu/) (University of Washington) for a visit to our group at the UHawaii on February 17–18, 2026! <br />
 
 
 ## 01/25/2026
